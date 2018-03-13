@@ -32,10 +32,8 @@ You do not need to prepare for this meeting. It is also fine to just attend and 
 | 2017-10-05 | Janneke | paper: [Text Preprocessing for Unsupervised Learning: Why It Matters, When It Misleads, and What to Do about It](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2849145) ] |
 | 2017-05-17 | Vincent | paper: [Offline bilingual word vectors, orthogonal transformations and the inverted softmax](https://arxiv.org/pdf/1702.03859.pdf) |
 | 2017-04-05 | Janneke | paper: [Characterizing the Google Books corpus: Strong limits to inferences of socio-cultural and linguistic evolution](https://arxiv.org/pdf/1501.00960.pdf) |
-| 2017-03-29 | Jisk | paper: [Topic modeling for untargeted substructure
-exploration in metabolomics](http://www.pnas.org/content/113/48/13738) |
-| 2017-01-23 | ? | [Predicting the Compositionality of Nominal Compounds:
-Giving Word Embeddings a Hard Time](https://www.aclweb.org/anthology/P/P16/P16-1187.pdf) |
+| 2017-03-29 | Jisk | paper: [Topic modeling for untargeted substructure exploration in metabolomics](http://www.pnas.org/content/113/48/13738) |
+| 2017-01-23 | ? | [Predicting the Compositionality of Nominal Compounds: Giving Word Embeddings a Hard Time](https://www.aclweb.org/anthology/P/P16/P16-1187.pdf) |
 | 2016-12-06 | Dafne | [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf) ] |
 
 
