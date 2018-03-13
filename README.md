@@ -4,7 +4,7 @@ Information related to the meetings of the eHumanities SIG of NLeSC
 
 # Upcoming meeting
 
-Thursday 29 March 2018, 10:00-11:00
+Thursday 29 March 2018, 10:00-11:00. Room: Universal Turing Machine
 
 Topic: ACL 2017 Pot Luck
 
