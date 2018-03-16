@@ -16,6 +16,10 @@ Preparation: if you find the time, check the [paper list](http://www.aclweb.org/
 - Erik P17-3002 Improving Distributed Representations of Tweets - Present and Future
 - Erik P17-1068 Beyond Binary Labels: Political Ideology Prediction of Twitter Users
 - Erik P17-1037 Other Topics You May Also Agree or Disagree: Modeling Inter-Topic Preferences using Tweets and Matrix Factorization
+- Carlos [P17-1084](http://www.aclweb.org/anthology/P/P17/P17-1084.pdf) Apples to Apples: Learning Semantics of Common Entities
+Through a Novel Comprehension Task
+- Carlos [P17-1007](http://www.aclweb.org/anthology/P/P17/P17-1007.pdf) Skip-Gram – Zipf + Uniform = Vector Additivity
+- Carlos [P17-1042](http://www.aclweb.org/anthology/P/P17/P17-1042.pdf) Learning bilingual word embeddings with (almost) no bilingual data
 
 It is fine to mention papers more than once in this list.
 
