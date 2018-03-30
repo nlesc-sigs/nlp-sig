@@ -1,10 +1,12 @@
 # ehumanities SIG
 
-Information related to the meetings of the eHumanities SIG of NLeSC
+The eHumanities SIG of the Netherlands eScience Center is a group of researchers interested in digital humanities. We meet once a month to discuss recent developments in the field, usually by discussing a new paper about a topic relevant to the current projects of the eScience Center. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
+
+Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 # Upcoming meeting
 
-**Thursday 29 March 2018, 10:00-11:00. Room: Universal Turing Machine**
+**NEW DATE: Thursday 26 April 2018, 10:00-11:00. Room: Universal Turing Machine**
 
 Topic: ACL 2017 Pot Luck
 
