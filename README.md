@@ -1,4 +1,4 @@
-# ehumanities SIG
+# eHumanities SIG
 
 The eHumanities SIG of the Netherlands eScience Center is a group of researchers interested in digital humanities. We meet once a month to discuss recent developments in the field, usually by discussing a new paper about a topic relevant to the current projects of the eScience Center. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
 
