@@ -41,5 +41,16 @@ You do not need to prepare for this meeting. It is also fine to just attend and 
 | 2017-03-29 | Jisk | paper: [Topic modeling for untargeted substructure exploration in metabolomics](http://www.pnas.org/content/113/48/13738) |
 | 2017-01-23 | ? | paper: [Predicting the Compositionality of Nominal Compounds: Giving Word Embeddings a Hard Time](https://www.aclweb.org/anthology/P/P16/P16-1187.pdf) |
 | 2016-12-06 | Dafne | paper: [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf) |
-
-
+| 2016-11-17 | Carlos | paper: [A Bayesian Model of Diachronic Meaning Change](http://aclweb.org/anthology/Q/Q16/Q16-1003.pdf) |
+| 2016-11-03 | Janneke | paper: [How Transferable are Neural Networks in NLP Applications](http://www.aclweb.org/anthology/D/D16/D16-1046.pdf) |
+| 2016-08-11 | Carlos | paper: [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) |
+| 2016-06-06 | Janneke | paper: [Visualizing and Understanding Neural Models in NLP](http://www.aclweb.org/anthology/N/N16/N16-1082.pdf) |
+| 2016-03-17 | Arnold | papers: [QTLMiner: QTL database curation by mining tables in literature](https://academic.oup.com/bioinformatics/article/31/10/1689/177318) [Recovering Semantics of Tables on the Web](http://ilpubs.stanford.edu:8090/1012/1/tables.pdf) |
+| 2016-03-10 | Jisk | paper: [Augur: Mining Human Behaviors from Fiction to Power
+Interactive Systems](http://hci.stanford.edu/publications/2016/ethan/augur-chi-2016.pdf) |
+| 2016-01-28 | Patrick | [Word Representations via Gaussian Embedding](https://arxiv.org/abs/1412.6623) |
+| 2016-01-14 | Lars | [Building a Scientific Concept Hierarchy Database (SCHBASE)](http://aclweb.org/anthology/P/P15/P15-1059.pdf) |
+| 2015-06-26 | Patrick | [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) |
+| 2015-05-12 | Janneke | talk: [Provenance in the project BiographyNet](http://linkedscience.org/wp-content/uploads/2013/04/paper7.pdf) (Antske Fokkens) | 
+| 2015-04-00 | Jisk | paper: [Antisocial Behavior in Online Discussion Communities](https://arxiv.org/pdf/1504.00680v1.pdf) |
+| 2014/2015 | various | NLP book |
