@@ -46,8 +46,7 @@ You do not need to prepare for this meeting. It is also fine to just attend and 
 | 2016-08-11 | Carlos | paper: [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) |
 | 2016-06-06 | Janneke | paper: [Visualizing and Understanding Neural Models in NLP](http://www.aclweb.org/anthology/N/N16/N16-1082.pdf) |
 | 2016-03-17 | Arnold | papers: [QTLMiner: QTL database curation by mining tables in literature](https://academic.oup.com/bioinformatics/article/31/10/1689/177318) [Recovering Semantics of Tables on the Web](http://ilpubs.stanford.edu:8090/1012/1/tables.pdf) |
-| 2016-03-10 | Jisk | paper: [Augur: Mining Human Behaviors from Fiction to Power
-Interactive Systems](http://hci.stanford.edu/publications/2016/ethan/augur-chi-2016.pdf) |
+| 2016-03-10 | Jisk | paper: [Augur: Mining Human Behaviors from Fiction to Power Interactive Systems](http://hci.stanford.edu/publications/2016/ethan/augur-chi-2016.pdf) |
 | 2016-01-28 | Patrick | [Word Representations via Gaussian Embedding](https://arxiv.org/abs/1412.6623) |
 | 2016-01-14 | Lars | [Building a Scientific Concept Hierarchy Database (SCHBASE)](http://aclweb.org/anthology/P/P15/P15-1059.pdf) |
 | 2015-06-26 | Patrick | [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) |
