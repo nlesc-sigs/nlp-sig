@@ -10,7 +10,7 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 Topic: eHumanities project @ NLeSC
 
-We will take a look at the current project at the Netherlands eScience Center that have an eScience component. We are interested in learning what their goals are and their current status. Here is an incomplete overview of the relevant projects:
+We will take a look at the current projects at the Netherlands eScience Center that have an eScience component. We are interested in learning what their goals are and their current status. Here is an incomplete overview of the relevant projects:
 
 - [Bridging the Gap](https://www.esciencecenter.nl/project/glammap) (Dafne/Janneke)
 - [EviDENce](https://www.esciencecenter.nl/project/evidence) (Martine/Wouter)
