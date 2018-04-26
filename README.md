@@ -20,7 +20,7 @@ We will take a look at the current projects at the Netherlands eScience Center t
 - [Ticclat](https://www.esciencecenter.nl/project/ticclat) (Valentina)
 - [What Works When for Whom?](https://www.esciencecenter.nl/project/what-works-when-for-whom) (Erik)
 
-Feel free to add additional relavant projects to this list
+Feel free to add additional relevant projects to this list
 
 # Past meetings
 
