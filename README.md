@@ -26,7 +26,7 @@ Feel free to add additional relevant projects to this list
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
-| 2018-04 | Erik | conference: [ACL 2017](./20180428-acl2017.md) |
+| 2018-04 | Erik | conference: [ACL 2017](https://github.com/NLeSC/ehumanities-sig/20180428-acl2017.md) |
 | 2018-02-05 | Erik | paper: [Detecting annotation noise in automatically labelled data](http://www.aclweb.org/anthology/P/P17/P17-1107.pdf) |
 | 2018-01-11 | Janneke | paper: [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://www.aclweb.org/anthology/P14-1023) |
 | 2017-10-05 | Janneke | paper: [Text Preprocessing for Unsupervised Learning: Why It Matters, When It Misleads, and What to Do about It](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2849145) |
