@@ -12,7 +12,7 @@ Topic: eHumanities project @ NLeSC
 
 We will take a look at the current projects at the Netherlands eScience Center that have an eScience component. We are interested in learning what their goals are and their current status. Here is an incomplete overview of the relevant projects:
 
-- [Bridging the Gap](https://www.esciencecenter.nl/project/glammap) (Dafne/Janneke)
+- [Bridging the Gap](https://www.esciencecenter.nl/project/bridging-the-gap) (Dafne/Janneke)
 - [EviDENce](https://www.esciencecenter.nl/project/evidence) (Martine/Wouter)
 - [GlamMap](https://www.esciencecenter.nl/project/glammap) (TomK)
 - [Inside the filter bubble](https://www.esciencecenter.nl/project/inside-the-filter-bubble) (?)
