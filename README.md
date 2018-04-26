@@ -4,30 +4,23 @@ The eHumanities SIG of the Netherlands eScience Center is a group of researchers
 
 Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
-# Upcoming meeting
+## Upcoming meeting
 
-**NEW DATE: Thursday 26 April 2018, 10:00-11:00. Room: Universal Turing Machine**
+**Date: Monday 28 May 2018, 13:00-14:00. Room: Compass**
 
-Topic: ACL 2017 Pot Luck
+Topic: eHumanities project @ NLeSC
 
-We will discuss papers of the August 2017 meeting of the Association for Computational Linguistics (Vancouver).
+We will take a look at the current project at the Netherlands eScience Center that have an eScience component. We are interested in learning what their goals are and their current status. Here is an incomplete overview of the relevant projects:
 
-Preparation: if you find the time, check the [paper list](http://www.aclweb.org/anthology/P/P17/) of the conference to see if there are any papers that could be interesting for you or your colleagues. Click on the P-id in front of a paper to view its pdf. Do not spend more than two minutes reading a paper. Only try to find out if it could be interesting. If you find a paper worthwile to mention at the meeting, add it to this list.
+- [Bridging the Gap](https://www.esciencecenter.nl/project/glammap) (Dafne/Janneke)
+- [EviDENce](https://www.esciencecenter.nl/project/evidence) (Martine/Wouter)
+- [GlamMap](https://www.esciencecenter.nl/project/glammap) (TomK)
+- [Inside the filter bubble](https://www.esciencecenter.nl/project/inside-the-filter-bubble) (?)
+- [NEWSGAC](https://www.esciencecenter.nl/project/newsgac) (Erik)
+- [Ticclat](https://www.esciencecenter.nl/project/ticclat) (Valentina)
+- [What Works When for Whom?](https://www.esciencecenter.nl/project/what-works-when-for-whom) (Erik)
 
-- Erik [P17-2102](http://www.aclweb.org/anthology/P/P17/P17-2102.pdf) Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter
-- Erik [P17-3002](http://www.aclweb.org/anthology/P/P17/P17-3002.pdf) Improving Distributed Representations of Tweets - Present and Future
-- Erik [P17-1068](http://www.aclweb.org/anthology/P/P17/P17-1068.pdf) Beyond Binary Labels: Political Ideology Prediction of Twitter Users
-- Erik [P17-1037](http://www.aclweb.org/anthology/P/P17/P17-1037.pdf) Other Topics You May Also Agree or Disagree: Modeling Inter-Topic Preferences using Tweets and Matrix Factorization
-- Carlos [P17-1084](http://www.aclweb.org/anthology/P/P17/P17-1084.pdf) Apples to Apples: Learning Semantics of Common Entities
-Through a Novel Comprehension Task
-- Carlos [P17-1007](http://www.aclweb.org/anthology/P/P17/P17-1007.pdf) Skip-Gram – Zipf + Uniform = Vector Additivity
-- Carlos [P17-1042](http://www.aclweb.org/anthology/P/P17/P17-1042.pdf) Learning bilingual word embeddings with (almost) no bilingual data
-
-It is fine to mention papers more than once in this list.
-
-There is also a [list of the 22 best papers](https://acl2017.wordpress.com/2017/08/03/outstanding-and-best-papers-and-the-decision-process/).
-
-You do not need to prepare for this meeting. It is also fine to just attend and listen/discuss.
+Feel free to add additional relavant projects to this list
 
 # Past meetings
 
