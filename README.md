@@ -6,31 +6,15 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Monday 28 May 2018, 13:00-14:00. Room: Compass**
+**Date: TBA. Room: TBA**
 
-Topic: eHumanities projects @ NLeSC
-
-We will take a look at the current projects at the Netherlands eScience Center that have an eScience component. We are interested in learning what their goals are and their current status. Here is an incomplete overview of the relevant projects:
-
-- [Bridging the Gap](https://www.esciencecenter.nl/project/bridging-the-gap) (Dafne/Janneke)
-- [candYgene](https://www.esciencecenter.nl/project/prediction-of-candidate-genes-for-traits-using-interoperable-genome-annotat) (Arnold)
-- CLARIAH Media Suite (Carlos)
-- [Emotion Recognition in Dementia](https://www.esciencecenter.nl/project/emotion-recognition-in-dementia) (Ben V/Vincent)
-- [EviDENce](https://www.esciencecenter.nl/project/evidence) (Martine/Wouter)
-- [GlamMap](https://www.esciencecenter.nl/project/glammap) (Tom K)
-- [Inside the filter bubble](https://www.esciencecenter.nl/project/inside-the-filter-bubble) (Laurens/Vincent)
-- [NEWSGAC](https://www.esciencecenter.nl/project/newsgac) (Erik)
-- [PIDIMEHS](https://www.esciencecenter.nl/project/pidimehs) (Patrick)
-- [Ticclat](https://www.esciencecenter.nl/project/ticclat) (Valentina)
-- [What Works When for Whom?](https://www.esciencecenter.nl/project/what-works-when-for-whom) (Erik)
-- Young eScientist Project (Dafne and Laurens)
-
-Feel free to add additional relevant projects to this list
+Topic: TBA
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
+| 2018-05-28 | Erik | [eScience projects](https://github.com/NLeSC/ehumanities-sig/blob/master/20180428-projects.md) |
 | 2018-04-26 | Erik | conference: [ACL 2017](https://github.com/NLeSC/ehumanities-sig/blob/master/20180426-acl2017.md) |
 | 2018-02-05 | Erik | paper: [Detecting annotation noise in automatically labelled data](http://www.aclweb.org/anthology/P/P17/P17-1107.pdf) |
 | 2018-01-11 | Janneke | paper: [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://www.aclweb.org/anthology/P14-1023) |
