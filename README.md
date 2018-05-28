@@ -14,7 +14,7 @@ Topic: TBA
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
-| 2018-05-28 | Erik | [eScience projects](https://github.com/NLeSC/ehumanities-sig/blob/master/20180428-projects.md) |
+| 2018-05-28 | Erik | [eScience projects](https://github.com/NLeSC/ehumanities-sig/blob/master/20180528-projects.md) |
 | 2018-04-26 | Erik | conference: [ACL 2017](https://github.com/NLeSC/ehumanities-sig/blob/master/20180426-acl2017.md) |
 | 2018-02-05 | Erik | paper: [Detecting annotation noise in automatically labelled data](http://www.aclweb.org/anthology/P/P17/P17-1107.pdf) |
 | 2018-01-11 | Janneke | paper: [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://www.aclweb.org/anthology/P14-1023) |
