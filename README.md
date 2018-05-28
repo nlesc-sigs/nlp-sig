@@ -13,13 +13,17 @@ Topic: eHumanities projects @ NLeSC
 We will take a look at the current projects at the Netherlands eScience Center that have an eScience component. We are interested in learning what their goals are and their current status. Here is an incomplete overview of the relevant projects:
 
 - [Bridging the Gap](https://www.esciencecenter.nl/project/bridging-the-gap) (Dafne/Janneke)
+- [candYgene](https://www.esciencecenter.nl/project/prediction-of-candidate-genes-for-traits-using-interoperable-genome-annotat) (Arnold)
+- CLARIAH Media Suite (Carlos)
 - [Emotion Recognition in Dementia](https://www.esciencecenter.nl/project/emotion-recognition-in-dementia) (Ben V/Vincent)
 - [EviDENce](https://www.esciencecenter.nl/project/evidence) (Martine/Wouter)
 - [GlamMap](https://www.esciencecenter.nl/project/glammap) (Tom K)
 - [Inside the filter bubble](https://www.esciencecenter.nl/project/inside-the-filter-bubble) (?)
 - [NEWSGAC](https://www.esciencecenter.nl/project/newsgac) (Erik)
+- [PIDIMEHS](https://www.esciencecenter.nl/project/pidimehs) (Patrick)
 - [Ticclat](https://www.esciencecenter.nl/project/ticclat) (Valentina)
 - [What Works When for Whom?](https://www.esciencecenter.nl/project/what-works-when-for-whom) (Erik)
+- Young eScientist Project (Dafne and Laurens)
 
 Feel free to add additional relevant projects to this list
 
