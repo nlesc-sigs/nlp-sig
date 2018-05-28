@@ -18,7 +18,7 @@ We will take a look at the current projects at the Netherlands eScience Center t
 - [Emotion Recognition in Dementia](https://www.esciencecenter.nl/project/emotion-recognition-in-dementia) (Ben V/Vincent)
 - [EviDENce](https://www.esciencecenter.nl/project/evidence) (Martine/Wouter)
 - [GlamMap](https://www.esciencecenter.nl/project/glammap) (Tom K)
-- [Inside the filter bubble](https://www.esciencecenter.nl/project/inside-the-filter-bubble) (?)
+- [Inside the filter bubble](https://www.esciencecenter.nl/project/inside-the-filter-bubble) (Laurens/Vincent)
 - [NEWSGAC](https://www.esciencecenter.nl/project/newsgac) (Erik)
 - [PIDIMEHS](https://www.esciencecenter.nl/project/pidimehs) (Patrick)
 - [Ticclat](https://www.esciencecenter.nl/project/ticclat) (Valentina)
