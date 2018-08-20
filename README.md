@@ -6,14 +6,15 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: TBA. Room: TBA**
+**Date: Thursday 30 August. Room: Universal Turing Machine**
 
-Topic: TBA
+Topic: paper: [Deep Contextualized Word Representations](http://aclweb.org/anthology/N18-1202) |
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
+| 2018-08-30 | Erik | paper: [Deep Contextualized Word Representations](http://aclweb.org/anthology/N18-1202) |
 | 2018-05-28 | Erik | [eScience projects](https://github.com/NLeSC/ehumanities-sig/blob/master/20180528-projects.md) |
 | 2018-04-26 | Erik | conference: [ACL 2017](https://github.com/NLeSC/ehumanities-sig/blob/master/20180426-acl2017.md) |
 | 2018-02-05 | Erik | paper: [Detecting annotation noise in automatically labelled data](http://www.aclweb.org/anthology/P/P17/P17-1107.pdf) |
