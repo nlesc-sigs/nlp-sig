@@ -8,7 +8,7 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 **Date: Thursday 30 August. Room: Universal Turing Machine**
 
-Topic: paper: [Deep Contextualized Word Representations](http://aclweb.org/anthology/N18-1202) |
+Topic: paper: [Deep Contextualized Word Representations](http://aclweb.org/anthology/N18-1202)
 
 # Past meetings
 
