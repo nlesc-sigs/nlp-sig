@@ -6,7 +6,7 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Thursday 30 August. Room: Universal Turing Machine**
+**Date: Thursday 30 August. Room: Collab**
 
 Topic: paper: [Deep Contextualized Word Representations](http://aclweb.org/anthology/N18-1202)
 
