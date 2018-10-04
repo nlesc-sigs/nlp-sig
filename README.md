@@ -6,7 +6,7 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Thursday 4 October 2018, 15:00-15:59. Room: Microscope**
+**Date: Thursday 4 October 2018, 15:00-15:59. Room: Universal Turing Machine**
 
 Topic: paper: [AllenNLP: A Deep Semantic Natural Language Processing Platform](http://aclweb.org/anthology/W18-2501)
 
