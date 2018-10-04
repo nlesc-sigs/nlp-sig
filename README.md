@@ -6,14 +6,16 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Thursday 4 October 2018, 15:00-15:59. Room: Collab**
+**Date: Monday 5 November 2018, 15:30-16:30. Room: Universal Turing Machine**
 
-Topic: paper: [AllenNLP: A Deep Semantic Natural Language Processing Platform](http://aclweb.org/anthology/W18-2501)
+Topic: We will discuss the results of the [NLP software inventarization](github.com/NLeSC/ehumanities-sig/blob/master/useful-nlp-software.md). If you use software for Natural Language Processing in one of your eScience projects, could you add it to the table on that Github page?
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
+| 2018-10-04 | Erik | paper: [AllenNLP: A Deep Semantic Natural Language Processing Platform](http://aclweb.org/anthology/W18-2501) |
+|            |      | blog: [ALlenNLP on GPUs](medium.com/@markn_67491/run-allennlp-models-on-free-gpus-using-googles-colab-notebooks-4db9359970c1) |
 | 2018-08-30 | Erik | paper: [Deep Contextualized Word Representations](http://aclweb.org/anthology/N18-1202) |
 |            |      | links: [blog about conference](http://blog.aylien.com/highlights-of-naacl-hlt-2018-generalization-test-of-time-and-dialogue-systems/) - [ELMo: code and models](https://allennlp.org/elmo) - [alternative approach](http://alanakbik.github.io/papers/coling2018.pdf)
 | 2018-05-28 | Erik | [eScience projects](https://github.com/NLeSC/ehumanities-sig/blob/master/20180528-projects.md) |
