@@ -2,16 +2,16 @@
 
 This is an overview of useful software that is being used in
 being considered for projects at the [Netherlands eScience 
-Center](esciencecenter.nl) that involve Natural Language 
+Center](https://esciencecenter.nl) that involve Natural Language 
 Processing.
 
 | Name | Description | Projects | Engineers |
 |------|-------------|----------|-----------|
-| [Nltk](nltk.org) | Python library for NLP tasks | [NEWSGAC](esciencecenter.nl/project/newsgac), [Online Behaviour](esciencecenter.nl/project/automated-analysis-of-online-behaviour-on-social-media), [What Works When for Whom?](esciencecenter.nl/project/what-works-when-for-whom) | [Erik](esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
-| [Lamachine](proycon.github.io/LaMachine) | Syntactic analysis of Dutch | [What Works When for Whom?](esciencecenter.nl/project/what-works-when-for-whom) | [Erik](esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
-| [Safar](arabic.emi.ac.ma/safar) | Syntactic analysis of Arabic | [Bridging the gap](esciencecenter.nl/project/bridging-the-gap) | [Dafne](esciencecenter.nl/profile/dafne-van-kuppevelt-msc) [Janneke](esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
-| [Alpino](www.let.rug.nl/vannoord/alp/Alpino) | Dependency parser for Dutch | | [Erik](esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
-| [Clariah media suite](mediasuite.clariah.nl) | Clariah Media Suite | | [Carlos](esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) |
-| [Allennlp](allennlp.org) | Deep learning toolkit for NLP | | |
+| [Nltk](https://nltk.org) | Python library for NLP tasks | [NEWSGAC](https://esciencecenter.nl/project/newsgac), [Online Behaviour](https://esciencecenter.nl/project/automated-analysis-of-online-behaviour-on-social-media), [What Works When for Whom?](https://esciencecenter.nl/project/what-works-when-for-whom) | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
+| [Lamachine](https://proycon.github.io/LaMachine) | Syntactic analysis of Dutch | [What Works When for Whom?](https://esciencecenter.nl/project/what-works-when-for-whom) | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
+| [Safar](http://arabic.emi.ac.ma/safar) | Syntactic analysis of Arabic | [Bridging the gap](https://esciencecenter.nl/project/bridging-the-gap) | [Dafne](https://esciencecenter.nl/profile/dafne-van-kuppevelt-msc) [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
+| [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino) | Dependency parser for Dutch | | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
+| [Clariah media suite](https://mediasuite.clariah.nl) | Clariah Media Suite | | [Carlos](https://esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) |
+| [Allennlp](https://allennlp.org) | Deep learning toolkit for NLP | | |
 
 This list is incomplete. Feel feel to extend it.
