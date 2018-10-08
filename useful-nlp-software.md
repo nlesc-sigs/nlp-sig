@@ -11,6 +11,7 @@ Processing.
 | [Lamachine](https://proycon.github.io/LaMachine) | Syntactic analysis of Dutch | [What Works When for Whom?](https://esciencecenter.nl/project/what-works-when-for-whom) | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
 | [Safar](http://arabic.emi.ac.ma/safar) | Syntactic analysis of Arabic | [Bridging the gap](https://esciencecenter.nl/project/bridging-the-gap) | [Dafne](https://esciencecenter.nl/profile/dafne-van-kuppevelt-msc) [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
 | [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino) | Dependency parser for Dutch | | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
+| [WordNet](https://wordnet.princeton.edu/) | Lexical database for English and Dutch | | [Martine](https://www.esciencecenter.nl/profile/dr.-martine-de-vos) Meiert |
 | [Clariah media suite](https://mediasuite.clariah.nl) | Clariah Media Suite | | [Carlos](https://esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) |
 | [Allennlp](https://allennlp.org) | Deep learning toolkit for NLP | | |
 
