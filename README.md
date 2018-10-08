@@ -6,7 +6,7 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Monday 5 November 2018, 15:30-16:30. Room: Universal Turing Machine**
+**Date: Thursday 8 November 2018, 11:00-12:00. Room: Universal Turing Machine**
 
 Topic: We will discuss the results of the [NLP software inventarization](https://github.com/NLeSC/ehumanities-sig/blob/master/useful-nlp-software.md). If you use software for Natural Language Processing in one of your eScience projects, could you add it to the table on that Github page?
 
