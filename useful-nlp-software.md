@@ -20,17 +20,16 @@ Processing.
 | [nlppln](https://github.com/nlppln/nlppln) | Make text processing workflows using CWL and command line tools. | [Bridging the gap](https://esciencecenter.nl/project/bridging-the-gap), [KB OCR post-correction project](https://github.com/KBNLresearch/ochre)  | [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan)  |
 | [pattern](https://www.clips.uantwerpen.be/pattern) | parsing Dutch and other | | Janneke
 | spacy | syntactic analysis for different languages | | Erik |
-| elastic search | information retrieval | used in clariah |
+| elastic search | information retrieval | used in clariah, [PIDIMEHS](https://esciencecenter.nl/project/pidimehs) | Patrick B., Janneke |
 | gensim | topic modeling and word embeddings |
 | fasttext | text classification | | Erik
-| Microsoft Excel | | | Patrick B. |
 | (corpora) | 
 | (data formats: naf/kaf/folia/xml/tei/json/saf) |
 | apps vs tools |
 | add speech processing tools |
 | add visual processing tools |
 | [inception](https://inception-project.github.io/) | text annotation (from escience conference) 
-| [virtuoso](https://virtuoso.openlinksw.com/) | linked data | | Patrick B. |
+| [virtuoso](https://virtuoso.openlinksw.com/) | linked data | [Hadrianus](https://esciencecenter.nl/project/hadrianus) | Arnold, Patrick B. |
 | newsreader | text processing by the VU | | Martine/Wouter/Stefan |
 | (link this to the guide) |
 
