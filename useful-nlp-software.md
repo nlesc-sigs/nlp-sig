@@ -29,7 +29,7 @@ Processing.
 | add speech processing tools |
 | add visual processing tools |
 | [inception](https://inception-project.github.io/) | text annotation (from escience conference) 
-| [virtuoso](https://virtuoso.openlinksw.com/) | linked data | [Hadrianus](https://esciencecenter.nl/project/hadrianus) | Arnold, Patrick B. |
+| [virtuoso](https://virtuoso.openlinksw.com/) | linked data | [Hadrianus](https://esciencecenter.nl/project/handrianvs-a-digital-gateway-to-the-dutch-presence-in-rome-through-the-ages) | Arnold, Patrick B. |
 | newsreader | text processing by the VU | | Martine/Wouter/Stefan |
 | (link this to the guide) |
 
