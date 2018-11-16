@@ -6,14 +6,15 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Thursday 8 November 2018, 11:00-12:00. Room: Universal Turing Machine**
+**Date: Monday 3 December 2018, 13:00-14:00. Room: Universal Turing Machine**
 
-Topic: We will discuss the results of the [NLP software inventarization](https://github.com/NLeSC/ehumanities-sig/blob/master/useful-nlp-software.md). If you use software for Natural Language Processing in one of your eScience projects, could you add it to the table on that Github page?
+Topic: We will examine the current standard text book in Deep Learning for NLP: [Neural Network Methods for Natural Language Processing](https://www.amazon.de/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984/) by [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) (2017). If you want to inspect the book before the meeting, you can have a look at Erik's hard copy at the Center (ask him) or examine the [author's pdf on which the book was based](http://www.cs.biu.ac.il/~yogo/nnlp.pdf).
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
+| 2018-11-08 | Erik | [Inventory NLP software @ eScience](https://github.com/NLeSC/ehumanities-sig/blob/master/useful-nlp-software.md) |
 | 2018-10-04 | Erik | paper: [AllenNLP: A Deep Semantic Natural Language Processing Platform](http://aclweb.org/anthology/W18-2501) |
 |            |      | link: [ALlenNLP on GPUs](https://medium.com/@markn_67491/run-allennlp-models-on-free-gpus-using-googles-colab-notebooks-4db9359970c1) |
 | 2018-08-30 | Erik | paper: [Deep Contextualized Word Representations](http://aclweb.org/anthology/N18-1202) |
