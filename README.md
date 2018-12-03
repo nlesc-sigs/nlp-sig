@@ -6,14 +6,15 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Monday 3 December 2018, 13:00-14:00. Room: Universal Turing Machine**
+**Date: Monday 14 January 2018, 10:30-11:30. Room: Universal Turing Machine**
 
-Topic: We will examine the current standard text book in Deep Learning for NLP: [Neural Network Methods for Natural Language Processing](https://www.amazon.de/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984/) by [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) (2017). If you want to inspect the book before the meeting, you can have a look at Erik's hard copy at the Center (ask him) or examine the [author's pdf on which the book was based](http://www.cs.biu.ac.il/~yogo/nnlp.pdf).
+Topic: Each of us will present informal updates of the eHumanities projects we are involved in. If there is time left, interested participants can examine the book [Neural Network Methods for Natural Language Processing](https://www.amazon.de/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984/) by [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) (2017).
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
+| 2018-12-03 | Erik | Overview of running eHumanities projects at NLeSC |
 | 2018-11-08 | Erik | [Inventory NLP software @ eScience](https://github.com/NLeSC/ehumanities-sig/blob/master/useful-nlp-software.md) |
 | 2018-10-04 | Erik | paper: [AllenNLP: A Deep Semantic Natural Language Processing Platform](http://aclweb.org/anthology/W18-2501) |
 |            |      | link: [ALlenNLP on GPUs](https://medium.com/@markn_67491/run-allennlp-models-on-free-gpus-using-googles-colab-notebooks-4db9359970c1) |
