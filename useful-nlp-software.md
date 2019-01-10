@@ -1,4 +1,4 @@
-# Useful Humanities software
+# Useful Natural Language Processing software
 
 This is an overview of useful software that is being used in
 being considered for projects at the [Netherlands eScience
@@ -24,11 +24,13 @@ Processing.
 | [Clariah media suite](https://mediasuite.clariah.nl) | Clariah Media Suite (we do not have access) | | [Carlos](https://esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) |
 | [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino) | Dependency parser for Dutch | | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
 | [Allennlp](https://allennlp.org) | Deep learning toolkit for NLP | | |
-| gensim | topic modeling and word embeddings |
+| [Folia](https://proycon.github.io/folia/) | data format for text with linguistic annotations | | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
+| [gensim](https://radimrehurek.com/gensim/) | topic modeling and word embeddings |
 | [inception](https://inception-project.github.io/) | text annotation (from escience conference) 
-| (corpora) | 
-| (data formats: naf/kaf/folia/xml/tei/json/saf) |
-| (apps vs tools) |
+| [NAF](https://github.com/newsreader/NAF) | data format for text with linguistic annotations | | [Laurens](https://www.esciencecenter.nl/profile/laurens-bogaardt) [Vincent](https://www.esciencecenter.nl/profile/dr.-vincent-van-hees) |
+| (add corpora) | 
+| (add data formats: [KAF](http://adimen.si.ehu.es/~rigau/publications/gl09-kaf.pdf)/[XML](https://en.wikipedia.org/wiki/XML)/[TEI](https://en.wikipedia.org/wiki/Text_Encoding_Initiative)/[JSON](https://en.wikipedia.org/wiki/JSON)/saf) |
+| (compare apps with tools) |
 | (add speech processing tools) |
 | (add visual processing tools) |
 | (link this to the guide) |
