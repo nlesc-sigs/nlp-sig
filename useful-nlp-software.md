@@ -11,26 +11,26 @@ Processing.
 | [Lamachine](https://proycon.github.io/LaMachine) | Syntactic analysis of Dutch (includes Frog tagger and ticcl) | [What Works When for Whom?](https://esciencecenter.nl/project/what-works-when-for-whom) | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
 | [Safar](http://arabic.emi.ac.ma/safar) | Syntactic analysis of Arabic | [Bridging the gap](https://esciencecenter.nl/project/bridging-the-gap) | [Dafne](https://esciencecenter.nl/profile/dafne-van-kuppevelt-msc) [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
 | [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino) | Dependency parser for Dutch | | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) |
-| [WordNet](https://wordnet.princeton.edu/) | Lexical database for English and Dutch (also in NLTK/ isn't this data?) | [EviDENce](https://www.esciencecenter.nl/project/evidence) | [Martine](https://www.esciencecenter.nl/profile/dr.-martine-de-vos) Meiert |
+| [WordNet](https://wordnet.princeton.edu/) | Lexical database for English and Dutch (also in NLTK/ isn't this data?) | [EviDENce](https://www.esciencecenter.nl/project/evidence) | [Martine](https://www.esciencecenter.nl/profile/dr.-martine-de-vos) [Meiert](https://www.esciencecenter.nl/profile/meiert-grootes) |
 | [Clariah media suite](https://mediasuite.clariah.nl) | Clariah Media Suite (we do not have access) | | [Carlos](https://esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) |
-| [Allennlp](https://allennlp.org) | Deep learning toolkit for NLP | | |
 | [BlackLab](http://inl.github.io/BlackLab/) | Retrieval engine for stemmed/annotated corpora, indexing using Lucene | [Bridging the gap](https://esciencecenter.nl/project/bridging-the-gap)  | [Dafne](https://esciencecenter.nl/profile/dafne-van-kuppevelt-msc) [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
 | [corpus-frontend](https://github.com/INL/corpus-frontend) | Web GUI for Blacklab | [Bridging the gap](https://esciencecenter.nl/project/bridging-the-gap)  | [Dafne](https://esciencecenter.nl/profile/dafne-van-kuppevelt-msc) [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
 | [Heurist](http://heuristnetwork.org/) | Data management system for meta data for humanitites researchers, visualizes simple networks (no NLP) | [Bridging the gap (not extensively used)](https://esciencecenter.nl/project/bridging-the-gap)   | [Dafne](https://esciencecenter.nl/profile/dafne-van-kuppevelt-msc) |
 | [nlppln](https://github.com/nlppln/nlppln) | Make text processing workflows using CWL and command line tools. | [Bridging the gap](https://esciencecenter.nl/project/bridging-the-gap), [KB OCR post-correction project](https://github.com/KBNLresearch/ochre)  | [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan)  |
 | [pattern](https://www.clips.uantwerpen.be/pattern) | parsing Dutch and other | | Janneke
-| spacy | syntactic analysis for different languages | | Erik |
-| elastic search | information retrieval | used in clariah, [PIDIMEHS](https://esciencecenter.nl/project/pidimehs) | Patrick B., Janneke |
+| [Spacy](https://spacy.io/) | syntactic analysis for different languages | [What Works When for Whom?](https://esciencecenter.nl/project/what-works-when-for-whom) |  [Dafne](https://esciencecenter.nl/profile/dafne-van-kuppevelt-msc) [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang) [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
+| elastic search | information retrieval | used in clariah, [PIDIMEHS](https://esciencecenter.nl/project/pidimehs) | [Patrick B.](https://www.esciencecenter.nl/profile/patrick-bos) [Janneke](https://esciencecenter.nl/profile/dr.-janneke-van-der-zwaan) |
+| fasttext | text classification | [NEWSGAC](https://www.esciencecenter.nl/project/newsgac) | [Erik](https://esciencecenter.nl/profile/dr.-erik-tjong-kim-sang)
+| [Allennlp](https://allennlp.org) | Deep learning toolkit for NLP | | |
 | gensim | topic modeling and word embeddings |
-| fasttext | text classification | | Erik
+| [inception](https://inception-project.github.io/) | text annotation (from escience conference) 
+| [virtuoso](https://virtuoso.openlinksw.com/) | linked data | [Hadrianus](https://esciencecenter.nl/project/handrianvs-a-digital-gateway-to-the-dutch-presence-in-rome-through-the-ages) | [Arnold](https://www.esciencecenter.nl/profile/dr.-arnold-kuzniar) [Patrick B.](https://www.esciencecenter.nl/profile/patrick-bos) |
+| Newsreader | text processing by the VU | [EviDENce](https://www.esciencecenter.nl/project/evidence) [Filter bubble](https://www.esciencecenter.nl/project/inside-the-filter-bubble) | [Martine](https://www.esciencecenter.nl/profile/dr.-martine-de-vos) [Stefan](https://www.esciencecenter.nl/profile/stefan-verhoeven-bsc) [Wouter](https://www.esciencecenter.nl/profile/wouter-kouw) |
 | (corpora) | 
 | (data formats: naf/kaf/folia/xml/tei/json/saf) |
-| apps vs tools |
-| add speech processing tools |
-| add visual processing tools |
-| [inception](https://inception-project.github.io/) | text annotation (from escience conference) 
-| [virtuoso](https://virtuoso.openlinksw.com/) | linked data | [Hadrianus](https://esciencecenter.nl/project/handrianvs-a-digital-gateway-to-the-dutch-presence-in-rome-through-the-ages) | Arnold, Patrick B. |
-| newsreader | text processing by the VU | | Martine/Wouter/Stefan |
+| (apps vs tools) |
+| (add speech processing tools) |
+| (add visual processing tools) |
 | (link this to the guide) |
 
 This list is incomplete. Feel feel to extend it.
