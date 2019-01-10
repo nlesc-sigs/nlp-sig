@@ -1,6 +1,6 @@
-# eHumanities SIG
+# Natural Language Processing SIG
 
-The eHumanities SIG of the Netherlands eScience Center is a group of researchers interested in digital humanities. We meet once a month to discuss recent developments in the field, usually by discussing a new paper about a topic relevant to the current projects of the eScience Center. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
+The Natural Language Processing SIG of the Netherlands eScience Center (formerly eHumanities SIG) is a group of researchers interested in natural language processing. We meet once a month to discuss recent developments in the field, usually by discussing a new paper about a topic relevant to the current projects of the eScience Center. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
 
 Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
@@ -8,13 +8,13 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 **Date: Monday 14 January 2018, 10:30-11:30. Room: Universal Turing Machine**
 
-Topic: Each of us will present informal updates of the eHumanities projects we are involved in. If there is time left, interested participants can examine the book [Neural Network Methods for Natural Language Processing](https://www.amazon.de/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984/) by [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) (2017).
+Topic: Each of us will present informal updates of the natural language processing projects we are involved in. If there is time left, interested participants can examine the book [Neural Network Methods for Natural Language Processing](https://www.amazon.de/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984/) by [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) (2017).
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
-| 2018-12-03 | Erik | Overview of running eHumanities projects at NLeSC |
+| 2018-12-03 | Erik | Overview of running natural language processing projects at NLeSC |
 | 2018-11-08 | Erik | [Inventory NLP software @ eScience](https://github.com/NLeSC/ehumanities-sig/blob/master/useful-nlp-software.md) |
 | 2018-10-04 | Erik | paper: [AllenNLP: A Deep Semantic Natural Language Processing Platform](http://aclweb.org/anthology/W18-2501) |
 |            |      | link: [ALlenNLP on GPUs](https://medium.com/@markn_67491/run-allennlp-models-on-free-gpus-using-googles-colab-notebooks-4db9359970c1) |
