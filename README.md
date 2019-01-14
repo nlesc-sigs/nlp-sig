@@ -1,12 +1,12 @@
 # Natural Language Processing SIG
 
-The Natural Language Processing SIG of the Netherlands eScience Center (formerly eHumanities SIG) is a group of researchers interested in natural language processing. We meet once a month to discuss recent developments in the field, usually by discussing a new paper about a topic relevant to the current projects of the eScience Center. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
+The Natural Language Processing SIG (formerly eHumanities SIG) of the Netherlands eScience Center is a group of researchers interested in humanities and natural language processing. We meet once a month to discuss progress of our projects iand recent developments in the field. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
 
 Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Thursday 14 February 2019, 11:00-12:00. Room: Compass**
+**Date: Thursday 14 February 2019, 13:00-14:00. Room: Compass**
 
 The next meeting of the Natural Language Processing SIG (formerly eHumanities SIG) will take place on Thursday 14 February 2019 11:00-12:00 in room Compass. At the meeting we will discuss current affairs in the running escience humanities projects.
 
