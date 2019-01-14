@@ -6,14 +6,15 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Monday 14 January 2018, 10:30-11:30. Room: Universal Turing Machine**
+**Date: Thursday 14 February 2019, 11:00-12:00. Room: Compass**
 
-Topic: Each of us will present informal updates of the natural language processing projects we are involved in. If there is time left, interested participants can examine the book [Neural Network Methods for Natural Language Processing](https://www.amazon.de/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984/) by [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) (2017).
+The next meeting of the Natural Language Processing SIG (formerly eHumanities SIG) will take place on Thursday 14 February 2019 11:00-12:00 in room Compass. At the meeting we will discuss current affairs in the running escience humanities projects.
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
+| 2019-01-14 | Erik | Overview of running natural language processing projects at NLeSC |
 | 2018-12-03 | Erik | Overview of running natural language processing projects at NLeSC |
 | 2018-11-08 | Erik | [Inventory NLP software @ eScience](https://github.com/NLeSC/ehumanities-sig/blob/master/useful-nlp-software.md) |
 | 2018-10-04 | Erik | paper: [AllenNLP: A Deep Semantic Natural Language Processing Platform](http://aclweb.org/anthology/W18-2501) |
