@@ -14,7 +14,7 @@ The next meeting of the Natural Language Processing SIG (formerly eHumanities SI
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
-| 2019-03-21 | Erik | [Planning PI Day](https://github.com/NLeSC/ehumanities-sig/blob/master/2019-pi-day.md)) and overview of running natural language processing projects at NLeSC |
+| 2019-03-21 | Erik | [Planning PI Day](https://github.com/NLeSC/ehumanities-sig/blob/master/2019-pi-day.md) and overview of running natural language processing projects at NLeSC |
 | 2019-03-04 | Erik | Overview of running natural language processing projects at NLeSC |
 | 2019-02-14 | Erik | Overview of running natural language processing projects at NLeSC |
 | 2019-01-14 | Erik | Overview of running natural language processing projects at NLeSC |
