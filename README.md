@@ -6,14 +6,15 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Thursday 2 May 2019, 14:00-15:00. Room: Universal Turing Machine**
+**Date: Thursday 23 May 2019, 11:00-12:00. Room: Universal Turing Machine**
 
-The next meeting of the Natural Language Processing SIG (formerly eHumanities SIG) will take place on Thursday 2 May 2019 14:00-15:00 in room Universal Turing Machine. At the meeting we will discuss current affairs in the running escience humanities projects.
+The next meeting of the Natural Language Processing SIG (formerly eHumanities SIG) will take place on Thursday 23 May 2019 11:00-12:00 in room Universal Turing Machine. At the meeting we will discuss current affairs in the running escience humanities projects.
 
 # Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
+| 2019-05-02 | Erik | Overview of running natural language processing projects at NLeSC |
 | 2019-04-15 | Erik | [Planning PI Day](https://github.com/NLeSC/ehumanities-sig/blob/master/2019-pi-day.md) and overview of running natural language processing projects at NLeSC |
 | 2019-03-21 | Erik | [Planning PI Day](https://github.com/NLeSC/ehumanities-sig/blob/master/2019-pi-day.md) and overview of running natural language processing projects at NLeSC |
 | 2019-03-04 | Erik | Overview of running natural language processing projects at NLeSC |
