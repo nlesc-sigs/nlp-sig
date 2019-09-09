@@ -10,6 +10,8 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 The next meeting of the Natural Language Processing SIG (formerly eHumanities SIG) will take place on Thursday 12 September 2019 14:00-15:00 in room Universal Turing Machine. At the meeting we will discuss current affairs in the running escience humanities projects.
 
+We also meet at Mondays 13:00-14:30 to follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md)
+
 # Past meetings
 
 | Date | Session leader | People | Topic |
