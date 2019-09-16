@@ -6,7 +6,7 @@ We meet at Mondays 13:00-14:30 in the Collab room.
 
 ## 20190916 Lecture 2
 
-Link to: [course video](https://www.youtube.com/watch?v=kEMJRjEdNzM) (*Word Vectors and Word Senses*)
+Link to: [course video](https://www.youtube.com/watch?v=kEMJRjEdNzM) (**Word Vectors and Word Senses**)
 
 Planned slide selection:
 
@@ -14,7 +14,7 @@ Planned slide selection:
 
 ## 20190909 Lecture 1
 
-Link to: [course video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (*Introduction and Word Vectors*)
+Link to: [course video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (**Introduction and Word Vectors**)
 
 Planned slide selection:
 
