@@ -10,7 +10,8 @@ Link to: [course video](https://www.youtube.com/watch?v=8CWyBNX6eDo) (**Neural n
 
 Planned slide selection:
 
-* 00:00-END  Feed forward networks and named entity recognition
+* 00:00-02:02  Course plan
+* 04:44-END    Feed forward networks and named entity recognition
 
 ## 20190916 Lecture 2
 
