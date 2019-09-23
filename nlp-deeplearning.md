@@ -4,13 +4,21 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20190923 Lecture 3 (starts at 13:30)
+
+Link to: [course video](https://www.youtube.com/watch?v=8CWyBNX6eDo) (**Neural networks**)
+
+Planned slide selection:
+
+* 00:00-END  Feed forward networks and named entity recognition
+
 ## 20190916 Lecture 2
 
 Link to: [course video](https://www.youtube.com/watch?v=kEMJRjEdNzM) (**Word Vectors and Word Senses**)
 
 Planned slide selection:
 
-* 00:00-80:43
+* 00:00-END  Word vectors and word senses
 
 ## 20190909 Lecture 1
 
