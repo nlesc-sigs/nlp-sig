@@ -6,7 +6,7 @@ We meet at Mondays 13:00-14:30 in the Collab room.
 
 ## 20190930 Lecture 4
 
-Link to: [course video](https://www.youtube.com/watch?v=yLYHDSv-288)(**Backpropagation**)
+Link to: [course video](https://www.youtube.com/watch?v=yLYHDSv-288) (**Backpropagation**)
 
 Planned slide selection:
 
@@ -15,8 +15,8 @@ Planned slide selection:
 Also:
 
 * Assignment 1: Gensim word vector demo: 
-  [code](http://web.stanford.edu/class/cs224n/materials/Gensim.zip) 
-  [data](http://nlp.stanford.edu/data/glove.6B.zip)
+  \[[code](http://web.stanford.edu/class/cs224n/materials/Gensim.zip)\]
+  \[[data](http://nlp.stanford.edu/data/glove.6B.zip)\]
 
 ## 20190923 Lecture 3 (starts at 13:30)
 
