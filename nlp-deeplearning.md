@@ -14,9 +14,10 @@ Planned slide selection:
 
 Also:
 
-* Assignment 1: Gensim word vector demo: 
+* Gensim word vector demo: 
   \[[code](http://web.stanford.edu/class/cs224n/materials/Gensim.zip)\]
   \[[data](http://nlp.stanford.edu/data/glove.6B.zip)\]
+* Andrej Karpathy's blog post [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 
 ## 20190923 Lecture 3 (starts at 13:30)
 
