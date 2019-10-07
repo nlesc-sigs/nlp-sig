@@ -4,6 +4,14 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20191007 Lecture 5
+
+Link to: [course video](https://www.youtube.com/watch?v=nC9_RfjYwqA) (**Dependency parsing**)
+
+Planned slide selection:
+
+* 50:54-END    Dependency parsing &amp; Neural parsing
+
 ## 20190930 Lecture 4
 
 Link to: [course video](https://www.youtube.com/watch?v=yLYHDSv-288) (**Backpropagation**)
