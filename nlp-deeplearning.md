@@ -4,6 +4,16 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20191014 Lecture 6
+
+Link to: [course video](https://www.youtube.com/watch?v=iWea12EAu6U)
+
+Planned slide selection:
+
+* 15:07-END    Language models &amp; recurrent neural networks
+
+Skipped: 00:00-15:07 language models, ngram models and smoothing
+
 ## 20191007 Lecture 5
 
 Link to: [course video](https://www.youtube.com/watch?v=nC9_RfjYwqA) (**Dependency parsing**)
@@ -11,6 +21,8 @@ Link to: [course video](https://www.youtube.com/watch?v=nC9_RfjYwqA) (**Dependen
 Planned slide selection:
 
 * 50:54-END    Dependency parsing &amp; Neural parsing
+
+Skipped: 00:00-50:54
 
 ## 20190930 Lecture 4
 
