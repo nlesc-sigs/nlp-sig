@@ -6,7 +6,7 @@ We meet at Mondays 13:00-14:30 in the Collab room.
 
 ## 20191014 Lecture 6 (starts at 13:30)
 
-Link to: [course video](https://www.youtube.com/watch?v=iWea12EAu6U)
+Link to: [course video](https://www.youtube.com/watch?v=iWea12EAu6U) (**Language Models and RNN's**)
 
 Planned slide selection:
 
