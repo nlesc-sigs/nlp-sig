@@ -4,7 +4,7 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
-## 20191021 Lecture 7
+## 20191028 Lecture 7
 
 Link to: [course video](https://www.youtube.com/watch?v=QEw0qEa0E50) (**Vanishing Gradients, Fancy RNNs**)
 
@@ -13,6 +13,8 @@ Planned slide selection:
 * 15:06-END    RNN problems &amp; solutions
 
 Skipped: 00:00-03:06 course announcements
+
+## 20191021 meeting cancelled
 
 ## 20191014 Lecture 6 (starts at 13:30)
 
