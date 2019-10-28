@@ -10,7 +10,7 @@ Link to: [course video](https://www.youtube.com/watch?v=QEw0qEa0E50) (**Vanishin
 
 Planned slide selection:
 
-* 15:06-END    RNN problems &amp; solutions
+* 03:06-END    RNN problems &amp; solutions
 
 Skipped: 00:00-03:06 course announcements
 
