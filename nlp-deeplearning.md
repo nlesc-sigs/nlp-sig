@@ -4,6 +4,16 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20191028 Lecture 8
+
+Link to: [course video](https://www.youtube.com/watch?v=XXtpJxZBa2c) (**Translation, Seq2Seq, Attention**)
+
+Planned slide selection:
+
+* 01:06-END    Statistical Machine Translation and Neural Machine Translation
+
+Skipped: 00:00-01:06 course announcements
+
 ## 20191028 Lecture 7
 
 Link to: [course video](https://www.youtube.com/watch?v=QEw0qEa0E50) (**Vanishing Gradients, Fancy RNNs**)
