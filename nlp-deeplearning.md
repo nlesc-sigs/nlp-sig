@@ -4,7 +4,7 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
-## 20191028 Lecture 9
+## 20191111 Lecture 9
 
 Link to: [course video](https://www.youtube.com/watch?v=fyqm8fRDgl0) (**Practical Tips for Projects**)
 
@@ -14,15 +14,15 @@ Planned slide selection:
 * 59:10-1:07:40 Evaluation of Machine Translation (optional)
 * 1:11:44-1:18:08 Data set splits (optional)
 
-Skipped: 00:00-36:36, 1:07:40-1:11:44, 1:18:08-END course announcements
+Skipped: 00:00-36:36, 1:07:40-1:11:44, 1:18:08-END: course announcements
 
-## 20191028 Lecture 8
+## 20191104 Lecture 8
 
 Link to: [course video](https://www.youtube.com/watch?v=XXtpJxZBa2c) (**Translation, Seq2Seq, Attention**)
 
 Planned slide selection:
 
-* 01:06-END    Statistical Machine Translation and Neural Machine Translation
+* 01:06-END:   Statistical Machine Translation and Neural Machine Translation
 
 Skipped: 00:00-01:06 course announcements
 
@@ -32,9 +32,9 @@ Link to: [course video](https://www.youtube.com/watch?v=QEw0qEa0E50) (**Vanishin
 
 Planned slide selection:
 
-* 03:06-END    RNN problems &amp; solutions
+* 03:06-END:   RNN problems &amp; solutions
 
-Skipped: 00:00-03:06 course announcements
+Skipped: 00:00-03:06: course announcements
 
 ## 20191021 meeting cancelled
 
@@ -44,9 +44,9 @@ Link to: [course video](https://www.youtube.com/watch?v=iWea12EAu6U) (**Language
 
 Planned slide selection:
 
-* 15:07-END    Language models &amp; recurrent neural networks
+* 15:07-END:   Language models &amp; recurrent neural networks
 
-Skipped: 00:00-15:07 language models, ngram models and smoothing
+Skipped: 00:00-15:07: language models, ngram models and smoothing
 
 ## 20191007 Lecture 5
 
@@ -54,7 +54,7 @@ Link to: [course video](https://www.youtube.com/watch?v=nC9_RfjYwqA) (**Dependen
 
 Planned slide selection:
 
-* 50:54-END    Dependency parsing &amp; Neural parsing
+* 50:54-END:   Dependency parsing &amp; Neural parsing
 
 Skipped: 00:00-50:54
 
@@ -64,7 +64,7 @@ Link to: [course video](https://www.youtube.com/watch?v=yLYHDSv-288) (**Backprop
 
 Planned slide selection:
 
-* 00:00-END    Backpropagation &amp; Tips
+* 00:00-END:   Backpropagation &amp; Tips
 
 Also:
 
@@ -79,8 +79,8 @@ Link to: [course video](https://www.youtube.com/watch?v=8CWyBNX6eDo) (**Neural n
 
 Planned slide selection:
 
-* 00:00-02:02  Course plan
-* 04:44-END    Feed forward networks and named entity recognition
+* 00:00-02:02: Course plan
+* 04:44-END:   Feed forward networks and named entity recognition
 
 ## 20190916 Lecture 2
 
@@ -88,7 +88,7 @@ Link to: [course video](https://www.youtube.com/watch?v=kEMJRjEdNzM) (**Word Vec
 
 Planned slide selection:
 
-* 00:00-END  Word vectors and word senses
+* 00:00-END: Word vectors and word senses
 
 ## 20190909 Lecture 1
 
@@ -96,9 +96,9 @@ Link to: [course video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMv
 
 Planned slide selection:
 
-* 03:52       Course goals
-* 09:00       Assignments
-* 10:00-44:00 Introduction
-* 74:08-END   Assignment 1 (download from [course page](http://web.stanford.edu/class/cs224n/))
+* 03:52:      Course goals
+* 09:00:      Assignments
+* 10:00-44:00: Introduction
+* 74:08-END:  Assignment 1 (download from [course page](http://web.stanford.edu/class/cs224n/))
 
 Skipped: 00:00-010:00 and 44:00-74:08.
