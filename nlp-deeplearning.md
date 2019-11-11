@@ -4,6 +4,18 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20191028 Lecture 9
+
+Link to: [course video](https://www.youtube.com/watch?v=fyqm8fRDgl0) (**Practical Tips for Projects**)
+
+Planned slide selection:
+
+* 36:36-59:10 Gated Recurrent Units, Vocabulary sizes 
+* 59:10-1:07:40 Evaluation of Machine Translation (optional)
+* 1:11:44-1:18:08 Data set splits (optional)
+
+Skipped: 00:00-36:36, 1:07:40-1:11:44, 1:18:08-END course announcements
+
 ## 20191028 Lecture 8
 
 Link to: [course video](https://www.youtube.com/watch?v=XXtpJxZBa2c) (**Translation, Seq2Seq, Attention**)
