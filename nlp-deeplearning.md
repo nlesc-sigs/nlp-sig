@@ -4,15 +4,25 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20191118 Lecture 10
+
+Link to: [course video](https://www.youtube.com/watch?v=yIdF-17HwSk) (**Question Answering**)
+
+Planned slide selection:
+
+* 06:19-1:21:00 Question Answering with NN
+
+Skipped: 00:00-06:19 course announcements
+
 ## 20191111 Lecture 9
 
 Link to: [course video](https://www.youtube.com/watch?v=fyqm8fRDgl0) (**Practical Tips for Projects**)
 
 Planned slide selection:
 
-* 36:36-59:10 Gated Recurrent Units, Vocabulary sizes 
-* 59:10-1:07:40 Evaluation of Machine Translation (optional)
-* 1:11:44-1:18:08 Data set splits (optional)
+* 36:36-59:10: Gated Recurrent Units, Vocabulary sizes 
+* 59:10-1:07:40: Evaluation of Machine Translation (optional)
+* 1:11:44-1:18:08: Data set splits (optional)
 
 Skipped: 00:00-36:36, 1:07:40-1:11:44, 1:18:08-END: course announcements
 
@@ -56,7 +66,7 @@ Planned slide selection:
 
 * 50:54-END:   Dependency parsing &amp; Neural parsing
 
-Skipped: 00:00-50:54
+Skipped: 00:00-50:54: Introduction to NLP
 
 ## 20190930 Lecture 4
 
@@ -101,4 +111,4 @@ Planned slide selection:
 * 10:00-44:00: Introduction
 * 74:08-END:  Assignment 1 (download from [course page](http://web.stanford.edu/class/cs224n/))
 
-Skipped: 00:00-010:00 and 44:00-74:08.
+Skipped: 00:00-10:00 and 44:00-74:08.
