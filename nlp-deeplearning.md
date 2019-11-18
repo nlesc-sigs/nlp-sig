@@ -4,15 +4,7 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
-## 20191118 Lecture 10
-
-Link to: [course video](https://www.youtube.com/watch?v=yIdF-17HwSk) (**Question Answering**)
-
-Planned slide selection:
-
-* 06:19-1:21:00 Question Answering with NN
-
-Skipped: 00:00-06:19 course announcements
+## 20191118 meeting cancelled
 
 ## 20191111 Lecture 9
 
