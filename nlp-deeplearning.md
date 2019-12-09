@@ -4,6 +4,28 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20191209 Lecture 11
+
+Link to: [course video](https://www.youtube.com/watch?v=EAJoRA0KX7I) (**Convulutional Networks for NLP**)
+
+Planned slide selection:
+
+* 07:56-1:20:18 Convolutional NN
+
+Skipped: 00:00-07:56 deep NN good practice is still shifting &amp; [Pytorch NLP book](https://www.bol.com/nl/p/natural-language-processing-mit-pytorch/9200000125608537/)a
+
+Upcoming:
+
+12. Subword Models
+13. Contextual Word Embeddings
+14. Transformers and Self-attention
+15. Natural Language Generation
+16. Coreference Resolution
+17. Multitask Learning
+18. Consituency Parsing, TreeRNNs
+19. Bias in AI
+20. Future of NLP + Deep Learning
+
 ## 20191202 Lecture 10
 
 Link to: [course video](https://www.youtube.com/watch?v=yIdF-17HwSk) (**Question Answering**)
