@@ -12,13 +12,13 @@ Planned slide selection:
 
 * 07:56-1:20:18 Convolutional NN
 
-Skipped: 00:00-07:56 deep NN good practice is still shifting &amp; [Pytorch NLP book](https://www.bol.com/nl/p/natural-language-processing-mit-pytorch/9200000125608537/)a
+Skipped: 00:00-07:56 deep NN good practice is still shifting &amp; [Pytorch NLP book](http://shop.oreilly.com/product/0636920063445.do)
 
 Upcoming:
 
 12. Subword Models
 13. Contextual Word Embeddings
-14. Transformers and Self-attention
+14. Transformers and Self-Attention
 15. Natural Language Generation
 16. Coreference Resolution
 17. Multitask Learning
