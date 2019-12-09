@@ -4,9 +4,11 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+There will be no meetings on 16, 23 and 30 December. The next meeting will be on Monday 6 January 2020, 13:00-14:30 in the Collab room.
+
 ## 20191209 Lecture 11
 
-Link to: [course video](https://www.youtube.com/watch?v=EAJoRA0KX7I) (**Convulutional Networks for NLP**)
+Link to: [course video](https://www.youtube.com/watch?v=EAJoRA0KX7I) (**Convolutional Networks for NLP**)
 
 Planned slide selection:
 
