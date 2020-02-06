@@ -10,7 +10,7 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 The regular meetings of the Natural Language Processing SIG (formerly eHumanities SIG) have been delayed for a while.
 
-We still meet at Mondays 13:00-14:30 to follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md).
+We still meet at Thursdays 14:00-15:30 to follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md).
 
 # Past meetings
 
