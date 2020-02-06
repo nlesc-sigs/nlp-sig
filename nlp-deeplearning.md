@@ -6,6 +6,14 @@ We meet at Mondays 13:00-14:30 in the Collab room.
 
 There will be no meetings on 16, 23 and 30 December. The next meeting will be on Monday 6 January 2020, 13:00-14:30 in the Collab room.
 
+## 20200206 Lecture 12
+
+Link to: [course video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q)(**Subword Models**)
+
+Planned slide selection:
+
+* 00:00-1:15:29 Subword models
+
 ## 20191209 Lecture 11
 
 Link to: [course video](https://www.youtube.com/watch?v=EAJoRA0KX7I) (**Convolutional Networks for NLP**)
