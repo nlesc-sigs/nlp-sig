@@ -6,7 +6,7 @@ We meet at Mondays 13:00-14:30 in the Collab room.
 
 There will be no meetings on 16, 23 and 30 December. The next meeting will be on Monday 6 January 2020, 13:00-14:30 in the Collab room.
 
-## 20200206 Lecture 12
+## 20200213 Lecture 12
 
 Link to: [course video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q) (**Subword Models**)
 
@@ -15,6 +15,8 @@ Planned slide selection:
 * 03:52-1:15:29 Subword models
 
 Skipped: 00:00-03:52 course announcements
+
+## 20200206 meeting cancelled
 
 ## 20191209 Lecture 11
 
