@@ -12,7 +12,9 @@ Link to: [course video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q) (**Subword 
 
 Planned slide selection:
 
-* 00:00-1:15:29 Subword models
+* 03:52-1:15:29 Subword models
+
+Skipped: 00:00-03:52 course announcements
 
 ## 20191209 Lecture 11
 
