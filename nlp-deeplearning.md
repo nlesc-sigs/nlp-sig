@@ -8,7 +8,7 @@ There will be no meetings on 16, 23 and 30 December. The next meeting will be on
 
 ## 20200206 Lecture 12
 
-Link to: [course video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q)(**Subword Models**)
+Link to: [course video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q) (**Subword Models**)
 
 Planned slide selection:
 
