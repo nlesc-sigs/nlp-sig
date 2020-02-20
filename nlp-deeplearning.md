@@ -4,6 +4,16 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20200213 Lecture 13 (room: Collab)
+
+Link to: [course video](https://www.youtube.com/watch?v=S-CspeZ8FHc) (**Contextual Word Representations**)
+
+Planned slide selection:
+
+* 05:00-1:20:18 Subword models
+
+Skipped: 00:00-05:00 course announcements
+
 ## 20200213 Lecture 12 (room: Compass!)
 
 Link to: [course video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q) (**Subword Models**)
