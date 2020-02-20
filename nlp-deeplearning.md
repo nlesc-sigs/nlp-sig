@@ -4,7 +4,7 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
-## 20200213 Lecture 13 (room: Collab)
+## 20200220 Lecture 13 (room: Collab)
 
 Link to: [course video](https://www.youtube.com/watch?v=S-CspeZ8FHc) (**Contextual Word Representations**)
 
