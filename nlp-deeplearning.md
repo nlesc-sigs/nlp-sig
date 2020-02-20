@@ -10,7 +10,7 @@ Link to: [course video](https://www.youtube.com/watch?v=S-CspeZ8FHc) (**Contextu
 
 Planned slide selection:
 
-* 05:00-1:20:18 Subword models
+* 05:00-1:20:18 Contextual Word Representations and Pre-training: Elmo and Bert
 
 Skipped: 00:00-05:00 course announcements
 
