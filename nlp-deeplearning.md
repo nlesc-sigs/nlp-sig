@@ -4,6 +4,14 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+## 20200227 Lecture 14 (room: Collab)
+
+Link to: [course video](https://www.youtube.com/watch?v=5vcj8kSwBCY) (**Transformers and Self-Attention**)
+
+Planned slide selection:
+
+* 00:00-53:47 Transformers and Self-Attention
+
 ## 20200220 Lecture 13 (room: Collab)
 
 Link to: [course video](https://www.youtube.com/watch?v=S-CspeZ8FHc) (**Contextual Word Representations**)
@@ -13,6 +21,8 @@ Planned slide selection:
 * 05:00-1:20:18 Contextual Word Representations and Pre-training: Elmo and Bert
 
 Skipped: 00:00-05:00 course announcements
+
+Recommended [notebook](http://nlp.seas.harvard.edu/2018/04/03/attention.html) related to the paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ## 20200213 Lecture 12 (room: Compass!)
 
