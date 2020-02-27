@@ -2,7 +2,7 @@
 
 In the autumn of 2019 the participants of the [Natural Language Processing SIG](https://github.com/NLeSC/ehumanities-sig/) follow the course [CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) from Stanford University. This is an overview of the lessons that we have viewed.
 
-We meet at Mondays 13:00-14:30 in the Collab room.
+We meet at Thursdays 14:00-15:30 in the room Compass (or Collab).
 
 
 ## 20200503 Lecture 15 (room: Compass!)
