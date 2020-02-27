@@ -4,6 +4,17 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Mondays 13:00-14:30 in the Collab room.
 
+
+## 20200503 Lecture 15 (room: Compass!)
+
+Link to: [course video](https://www.youtube.com/watch?v=4uG1NMKNWCU) (**Natural Language Generation**)
+
+Planned slide selection:
+
+* 01:09-1:19:36 Natural Language Generation
+
+Skipped: 00:00-01:09 course announcements
+
 ## 20200227 Lecture 14 (room: Collab)
 
 Link to: [course video](https://www.youtube.com/watch?v=5vcj8kSwBCY) (**Transformers and Self-Attention**)
@@ -11,6 +22,8 @@ Link to: [course video](https://www.youtube.com/watch?v=5vcj8kSwBCY) (**Transfor
 Planned slide selection:
 
 * 00:00-53:47 Transformers and Self-Attention
+
+Paper tip: [oLMpics - On what Language Model Pre-training Captures](https://arxiv.org/pdf/1912.13283.pdf)
 
 ## 20200220 Lecture 13 (room: Collab)
 
