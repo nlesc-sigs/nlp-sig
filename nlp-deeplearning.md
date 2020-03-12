@@ -5,6 +5,17 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 We meet at Thursdays 14:00-15:30 in the room Compass (or Collab).
 
 
+## 20200312 Lecture 16 (room: Compass)
+
+Link to: [course video](https://www.youtube.com/watch?v=i19m4GzBhfc) (**Coreference resolution**)
+
+Planned slide selection:
+
+* 01:40-1:19:20 Coreference resolution
+
+Skipped: 00:00-01:40 course announcements
+
+
 ## 20200305 Lecture 15 (room: Compass!)
 
 Link to: [course video](https://www.youtube.com/watch?v=4uG1NMKNWCU) (**Natural Language Generation**)
