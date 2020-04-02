@@ -4,13 +4,19 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Thursdays 14:00-15:30 in the room Compass (or Collab).
 
-## 20200409 Lecture 17 (room: Compass)
+## 20200430 Lecture 17 (room: Collab)
 
 Link to: [course video](https://www.youtube.com/watch?v=M8dsZsEtEsg) (**Multitask Learning**)
 
 Planned slide selection:
 
 * 00:00-1:11:53 Multitask Learning
+
+## 20200423 meeting cancelled
+
+## 20200416 meeting cancelled
+
+## 20200409 meeting cancelled
 
 ## 20200402 meeting cancelled
 
