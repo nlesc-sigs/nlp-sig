@@ -6,9 +6,8 @@ Contact person: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl
 
 ## Upcoming meeting
 
-**Date: Thursday 9 April 2020, 14:00-15:00 Room: Microsoft Teams (Team: Natural Language Processing; Channel: General) **
-
-The regular meetings of the Natural Language Processing SIG (formerly eHumanities SIG) have been delayed for a while.
+**Date: Thursday 9 April 2020, 14:00-15:00**
+**Room: Microsoft Teams (Team: Natural Language Processing; Channel: General)**
 
 We plan to meet at Thursdays 14:00-15:30 to follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md) when the NLeSc office space is available again
 
