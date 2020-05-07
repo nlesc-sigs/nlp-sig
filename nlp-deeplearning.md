@@ -4,13 +4,18 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Thursdays 14:00-15:30 in the room Compass (or Collab).
 
-## 20200430 Lecture 17 (room: Collab)
+## 20200518 Lecture 17 (room: Microsoft Teams, 15:30-17:00)
 
-Link to: [course video](https://www.youtube.com/watch?v=M8dsZsEtEsg) (**Multitask Learning**)
+Links to:
+
+* [course video](https://www.youtube.com/watch?v=M8dsZsEtEsg) (**Multitask Learning**)
+* [Join meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTU4MTUxODUtYzJmNC00NzExLThlNDYtZGJjMmJhZWMyMzg5%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d)
 
 Planned slide selection:
 
 * 00:00-1:11:53 Multitask Learning
+
+## 20200430 meeting cancelled
 
 ## 20200423 meeting cancelled
 
