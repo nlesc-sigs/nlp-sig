@@ -1,8 +1,19 @@
-# NLP with Deep learning
+# NLP with Deep Learning
 
 In the autumn of 2019 the participants of the [Natural Language Processing SIG](https://github.com/NLeSC/ehumanities-sig/) follow the course [CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) from Stanford University. This is an overview of the lessons that we have viewed.
 
 We meet at Thursdays 14:00-15:30 in the room Compass (or Collab).
+
+## 20200615 Lecture 18 (room: Microsoft Teams, 15:30-17:00)
+
+Links to:
+
+* [course video](https://www.youtube.com/watch?v=6Z4A3RSf-HY) (**Constituency Parsing, TreeRNNs**)
+* [Join meeting](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fmeetup-join%2f19%3ameeting_NWZmYjgxYjYtZGNmMS00MzlmLWI0NTgtOGQ3ZTgyZWI5NGMx%40thread.v2%2f0%3fcontext%3d%257b%2522Tid%2522%253a%2522aa3aeacc-6307-42b2-ac05-787dd5c32574%2522%252c%2522Oid%2522%253a%252289da8bba-97dd-4619-9650-a0c34abc187e%2522%257d%26anon%3dtrue&type=meetup-join&deeplinkId=93452b19-4b96-45ca-8a3e-773a046883f6&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+
+Planned slide selection:
+
+* 02:37-1:20:37 Constituency Parsing, TreeRNNs
 
 ## 20200518 Lecture 17 (room: Microsoft Teams, 15:30-17:00)
 
