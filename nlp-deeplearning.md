@@ -13,7 +13,7 @@ Links to:
 
 Planned slide selection:
 
-* 02:37-1:20:37 Constituency Parsing, TreeRNNs
+* 02:37-1:15:40 Constituency Parsing, TreeRNNs
 
 ## 20200518 Lecture 17 (room: Microsoft Teams, 15:30-17:00)
 
