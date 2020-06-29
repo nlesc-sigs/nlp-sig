@@ -7,8 +7,8 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 ## Upcoming meeting
 
-**Date: Monday 29 June 15:30-16:30<br>
-**Room: Microsoft Teams (Team: Natural Language Processing SIG; Channel: General)**
+**Date: Monday 29 June 15:30-16:30**<br>
+**Room: [Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjA5N2UxNjItYzBjOC00MTM0LWI3YTEtMzMyNDRlYWU0MmZh%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) (Team: Natural Language Processing SIG; Channel: General)**
 
 We meet irregulary to follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md)
 
