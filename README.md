@@ -16,11 +16,10 @@ We meet irregulary to follow an online course on [NLP with Deep Learning](https:
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
-| 2020-06-09 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
+| 2020-06-29 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
 | 2020-04-09 | Erik | 6 | Overview of running natural language processing projects at NLeSC |
 | 2019-10-03 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
 | 2019-09-12 | Erik | 4 | Overview of running natural language processing projects at NLeSC |
-| 2019-08-22 | -    | 0 | Cancelled: too few attendees |
 | 2019-07-18 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
 | 2019-06-13 | Erik | 4 | Overview of running natural language processing projects at NLeSC |
 | 2019-05-23 | Erik | 5 | Overview of running natural language processing projects at NLeSC |
