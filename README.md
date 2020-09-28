@@ -7,8 +7,8 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 ## Upcoming meeting
 
-**Date: Monday 28 September 2020, 16:30-17:00**<br>
-**Room: [Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzA4Mzk3YTMtMGQwNS00NDQyLWJmMDQtODMwMzNiMjFkZDZh%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d)**
+**Date: TDB (probably in November)**<br>
+**Room: TBD**
 
 We meet irregulary to follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md)
 
@@ -16,6 +16,7 @@ We meet irregulary to follow an online course on [NLP with Deep Learning](https:
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2020-09-28 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
 | 2020-06-29 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
 | 2020-04-09 | Erik | 6 | Overview of running natural language processing projects at NLeSC |
 | 2019-10-03 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
