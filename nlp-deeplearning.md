@@ -4,6 +4,17 @@ In the autumn of 2019 the participants of the [Natural Language Processing SIG](
 
 We meet at Thursdays 14:00-15:30 in the room Compass (or Collab).
 
+## 20201008 Lecture 19 (room: Microsoft Teams, 16:00-17:00)
+
+Links to:
+
+* [course video](https://www.youtube.com/watch?v=XR8YSRcuVLE&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=19) (**Bias in AI**)
+* [Join meeting](https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=6d8d006e-2f0e-43b6-b448-cdd7b5ea037b&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OTUxZjAwMzMtZTMzMS00NDE4LTlhZDQtMjA1ZDMxM2FjODFm@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522aa3aeacc-6307-42b2-ac05-787dd5c32574%2522%252c%2522Oid%2522%253a%252289da8bba-97dd-4619-9650-a0c34abc187e%2522%257d%26anon%3Dtrue&suppressPrompt=true)
+
+Planned slide selection:
+
+* 00:00-56:03 Bias in AI
+
 ## 20200615 Lecture 18 (room: Microsoft Teams, 15:30-17:00)
 
 Links to:
