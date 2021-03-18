@@ -7,8 +7,8 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 ## Upcoming meeting
 
-**Date: TDB (probably in November)**<br>
-**Room: TBD**
+**Date: Thursday 25 March 2021, 16:00-16:30**<br>
+**Room: [Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDU2MjgwY2YtZWJmOS00MTljLTkyM2UtMTdlYWE0ZGFjYzdm%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d)**
 
 We meet irregulary to follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md)
 
