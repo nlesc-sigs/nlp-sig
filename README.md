@@ -1,6 +1,6 @@
 # Natural Language Processing SIG
 
-The Natural Language Processing SIG (formerly eHumanities SIG) of the Netherlands eScience Center is a group of researchers interested in humanities and natural language processing. We meet once every four weeks on Mondays (13:00) to discuss progress of our projects and recent developments in the field. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
+The Natural Language Processing SIG (formerly eHumanities SIG) of the Netherlands eScience Center is a group of researchers interested in humanities and natural language processing. We meet once every four weeks on [Mondays (13:00)](https://github.com/nlesc-sigs/propose-a-sig/blob/master/schedule.md) to discuss progress of our projects and recent developments in the field. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
 
 Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
                  Jisk Attema j.attema(a)esciencecenter.nl ,
