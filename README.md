@@ -10,7 +10,6 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | Teams link |
 |------|------|------|------------|
-| Monday 03 May 2021 | 13:00-13:59 | Update on relevant NLeSC topics + [Stanford NLP video](https://www.youtube.com/watch?v=3wWZBGN-iX8) discussion | [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGQzNzcwMTEtMWM0ZC00MzAxLWIzNGEtNDQyM2JhZmQ2ODg2%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) |
 | Monday 31 May 2021 | 13:00-13:59 | Update on relevant NLeSC topics + Stanford NLP video discussion |                |
 
 We currently follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md)
