@@ -6,18 +6,19 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
                  Jisk Attema j.attema(a)esciencecenter.nl ,
                  Dafne van Kuppevelt d.vankuppevelt(a)esciencecenter.nl
 
+
 ## Upcoming meetings
 
 | Date | Time |Topic | Teams link |
 |------|------|------|------------|
-| Monday 28 June 2021 | 13:00-13:59 | Update on relevant NLeSC topics + Stanford NLP video discussion | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTQzOWMyZjItZjFiZC00NTRlLWIyMzItMzY5MzE2MmQ0NjVh%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) |
+| Monday 26 July 2021 | 13:00-13:59 | Update on relevant NLeSC topics + Stanford NLP video discussion | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGEwMTlmMzEtODA4ZC00ODUyLWIzODgtMmY4NTA4ODQ4ZTI1%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) |
 
-We currently follow an online course on [NLP with Deep Learning](https://github.com/NLeSC/natural-language-processing-sig/blob/master/nlp-deeplearning.md)
 
 # Past meetings
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2021-06-28 | Erik | 6 | [NLP @ NLeSC and Stanford Deep Learning video](20210R628meeting.md) |
 | 2021-05-03 | Erik | 6 | [NLP @ NLeSC and Stanford Deep Learning video](20210503-meeting.md) |
 | 2021-03-25 | Erik | 3 | [Overview of running natural language processing projects at NLeSC](20210325-meeting.md) |
 | 2020-09-28 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
