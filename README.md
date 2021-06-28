@@ -18,7 +18,7 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
-| 2021-06-28 | Erik | 6 | [NLP @ NLeSC and Stanford Deep Learning video](20210R628meeting.md) |
+| 2021-06-28 | Erik | 6 | [NLP @ NLeSC and Stanford NLP with Deep Learning](20210628-meeting.md) |
 | 2021-05-03 | Erik | 6 | [NLP @ NLeSC and Stanford Deep Learning video](20210503-meeting.md) |
 | 2021-03-25 | Erik | 3 | [Overview of running natural language processing projects at NLeSC](20210325-meeting.md) |
 | 2020-09-28 | Erik | 3 | Overview of running natural language processing projects at NLeSC |
