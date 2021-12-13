@@ -11,15 +11,17 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 ## Upcoming meetings
 
-| Date | Time |Topic | Teams link |
+| Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 15 November 2021 | 13:00-13:59 | Update on relevant NLeSC topics + Paper discussion | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGNhZDRlNTktZDQ4Yi00MjE5LTg3ZDUtMDQ5MmRiZTlhZTBm%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) |
+| Monday 10 January 2021 | 13:00-13:59 | Update on relevant NLeSC topics | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQwMjM3NzYtYWVjMy00MDYwLTg0M2ItODgwNmM0OWEzOGRi%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) |
 
 
 # Past meetings
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2021-12-13 | Erik | 6 | [NLP @ NLeSC and Conference summary](20211213-slides.pdf) |
+| 2021-11-15 | Erik | 5 | NLP @ NLeSC and Paper discussion |
 | 2021-10-18 | Erik | 6 | NLP @ NLeSC and Stanford NLP with Deep Learning |
 | 2021-09-20 | Erik | 4 | CLIN 2021 and BERT, projects, Stanford NLP |
 | 2021-07-26 | Erik | 3 | CLIN 2021 and BERT |
