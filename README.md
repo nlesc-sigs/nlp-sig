@@ -13,7 +13,7 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 2 May 2022 | 13:00-13:59 | NLP @ NLeSC  |  |
+| Monday 2 May 2022 | 13:00-13:59 | NLP @ NLeSC  and [Video Discussion](https://www.youtube.com/watch?v=N5c2X8vhfBE)|  |
 | Monday 30 May 2022 | 13:00-13:59 | Talk [Suzan Verberne](https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne#tab-1) |  |
 
 
