@@ -13,7 +13,7 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 30 May 2022 | 13:00-13:59 | Talk [Suzan Verberne](https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne#tab-1) |  |
+| Monday 30 May 2022 | 13:00-13:59 | Talk [Suzan Verberne](https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne#tab-1) | Title: Text mining for health knowledge discovery from social media |
 
 
 ## Past meetings
