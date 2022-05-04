@@ -13,7 +13,6 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 2 May 2022 | 13:00-13:59 | NLP @ NLeSC  and [Video Discussion](https://www.youtube.com/watch?v=N5c2X8vhfBE)|  |
 | Monday 30 May 2022 | 13:00-13:59 | Talk [Suzan Verberne](https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne#tab-1) |  |
 
 
@@ -21,6 +20,7 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2022-05-02 | Dafne| 5 | NLP @ NLeSC and [Video discussion](https://www.youtube.com/watch?v=N5c2X8vhfBE) |
 | 2022-04-04 | Jisk | 9 | NLP @ NLeSC and [Video discussion](https://underline.io/events/122/sessions/4318/lecture/22613-industry-invited-talk-project-debater---from-grand-challenge-to-business-applications,-behind-the-scenes-and-lessons-learned---aya-soffer) |
 | 2022-03-07 | Erik | 7 | NLP @ NLeSC and [Video discussion](https://www.youtube.com/watch?v=-G09F856lU4) |
 | 2022-02-07 | Erik | 7 | NLP @ NLeSC and [Paper discussion](https://aclanthology.org/2021.emnlp-main.818/) |
