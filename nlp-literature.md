@@ -18,7 +18,7 @@ These numbers change all the time and are never up-to-date.
 |  9,343 | 2014 | Le | [Distributed representations of sentences and documents](https://scholar.google.nl/scholar?q=Distributed+representations+of+sentences+and+documents) | 
 |  8,436 | 2011 | Collobert | [Natural language processing (almost) from scratch](https://scholar.google.nl/scholar?q=Natural+language+processing+almost+from+scratch) |
 |  7,991 | 2017 | Bojanowski | [Enriching word vectors with subword information](https://scholar.google.nl/scholar?q=Enriching+word+vectors+with+subword+information) |
-|  7,499 | 2014 | Manning | [The Stanford CoreNLP Natural Language Processing Toolkit](https://scholar.google.nl/scholar?q=The Stanford+CoreNLP+Natural+Language+Processing+Toolkit)) |
+|  7,499 | 2014 | Manning | [The Stanford CoreNLP Natural Language Processing Toolkit](https://scholar.google.nl/scholar?q=The+Stanford+CoreNLP+Natural+Language+Processing+Toolkit)) |
 |  7,490 | 2009 | Bird | [Natural language processing with Python: analyzing text with the natural language toolkit](https://scholar.google.nl/scholar?q=Natural+language+processing+with+Python:+analyzing+text+with+the+natural+language+toolkit) |
 |  7,455 | 2015 | Luong | [Effective approaches to attention-based neural machine translation](https://scholar.google.nl/scholar?q=Effective+approaches+to+attention-based+neural+machine+translation) |
 |  6,323 | 2010 | Mikolov | [Recurrent neural network based language model.](https://scholar.google.nl/scholar?q=Recurrent+neural+network+based+language+model) |
