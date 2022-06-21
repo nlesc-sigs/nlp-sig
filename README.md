@@ -15,7 +15,10 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| | | | The next meeting is expected for September 2022 |
+| Monday 19 September | 13:00-13:55 | | |
+| Monday 17 October   | 13:00-13:55 | | |
+| Monday 14 November  | 13:00-13:55 | | |
+| Monday 12 December  | 13:00-13:55 | | |
 
 
 ## Past meetings
