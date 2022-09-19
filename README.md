@@ -15,7 +15,6 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 19 September | 13:00-13:55 | | |
 | Monday 17 October   | 13:00-13:55 | Talk Marijn Koolen | |
 | Monday 14 November  | 13:00-13:55 | | |
 | Monday 12 December  | 13:00-13:55 | | |
@@ -25,6 +24,7 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2022-09-19 | Erik | 7| NLP @ NLeSC | 
 | 2022-05-30 | Erik |10 | Guest talk by Suzan Verberne: Text mining for health knowledge discovery from social media | 
 | 2022-05-02 | Dafne| 5 | NLP @ NLeSC and [Video discussion](https://www.youtube.com/watch?v=N5c2X8vhfBE) |
 | 2022-04-04 | Jisk | 9 | NLP @ NLeSC and [Video discussion](https://underline.io/events/122/sessions/4318/lecture/22613-industry-invited-talk-project-debater---from-grand-challenge-to-business-applications,-behind-the-scenes-and-lessons-learned---aya-soffer) |
