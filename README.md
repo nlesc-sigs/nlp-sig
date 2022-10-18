@@ -15,7 +15,6 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 17 October   | 13:00-13:55 | Talk Marijn Koolen: What can Online Book Reviews tell us about Readers and Platforms | [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDk5N2E0ZTAtNWU2Yi00ZTg0LWFiMzktMmNlMzAxOGY5Zjkx%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) |
 | Monday 14 November  | 13:00-13:55 | | |
 | Monday 12 December  | 13:00-13:55 | | |
 
@@ -24,7 +23,8 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
-| 2022-09-19 | Erik | 7| NLP @ NLeSC | 
+| 2022-10-17 | Ole  | 9 | Guest talk by Marijn Koolen: What can Online Book Reviews tell us about Readers and Platforms | 
+| 2022-09-19 | Erik | 7 | NLP @ NLeSC | 
 | 2022-05-30 | Erik |10 | Guest talk by Suzan Verberne: Text mining for health knowledge discovery from social media | 
 | 2022-05-02 | Dafne| 5 | NLP @ NLeSC and [Video discussion](https://www.youtube.com/watch?v=N5c2X8vhfBE) |
 | 2022-04-04 | Jisk | 9 | NLP @ NLeSC and [Video discussion](https://underline.io/events/122/sessions/4318/lecture/22613-industry-invited-talk-project-debater---from-grand-challenge-to-business-applications,-behind-the-scenes-and-lessons-learned---aya-soffer) |
