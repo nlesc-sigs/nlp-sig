@@ -7,15 +7,14 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 Here is a list of [frequently cited NLP publications](nlp-literature.md).
 
 Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
-                 Jisk Attema j.attema(a)esciencecenter.nl ,
-                 Dafne van Kuppevelt d.vankuppevelt(a)esciencecenter.nl
+                 Jisk Attema j.attema(a)esciencecenter.nl
 
 
 ## Upcoming meetings
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 14 November  | 13:00-13:55 | | |
+| Monday 14 November  | 13:00-13:55 | NLP @ NLeSC and Bert brainstorm | <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGU1NjBmMmQtZWIyZS00NDg3LWI5YTItYzkxZDFkYWRmMjBj%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d">Teams link</a> |
 | Monday 12 December  | 13:00-13:55 | | |
 
 
