@@ -14,14 +14,14 @@ Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 14 November  | 13:00-13:55 | NLP @ NLeSC and Bert brainstorm | <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGU1NjBmMmQtZWIyZS00NDg3LWI5YTItYzkxZDFkYWRmMjBj%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d">Teams link</a> |
-| Monday 12 December  | 13:00-13:55 | | |
+| Monday 12 December  | 13:00-13:55 | Bert Brainstorm (continued) | [https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2UxZDE2MjEtNWY3Zi00YzYxLWE1ZDYtYzczNWQxMDc0Yzcy%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d](Teams link) |
 
 
 ## Past meetings
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2022-11-14 | Jisk | 6 | NLP @ NLeSC and Bert Brainstorm |
 | 2022-10-17 | Ole  | 9 | Guest talk by Marijn Koolen: What can Online Book Reviews tell us about Readers and Platforms | 
 | 2022-09-19 | Erik | 7 | NLP @ NLeSC | 
 | 2022-05-30 | Erik |10 | Guest talk by Suzan Verberne: Text mining for health knowledge discovery from social media | 
