@@ -7,20 +7,21 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 Here is a list of [frequently cited NLP publications](nlp-literature.md).
 
 Contact persons: Erik Tjong Kim Sang e.tjongkimsang(a)esciencenter.nl ,
-                 Jisk Attema j.attema(a)esciencecenter.nl
+                 (vacancy for co SIG lead)
 
 
 ## Upcoming meetings
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Monday 12 December  | 13:00-13:55 | Bert Brainstorm (continued) | [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2UxZDE2MjEtNWY3Zi00YzYxLWE1ZDYtYzczNWQxMDc0Yzcy%40thread.v2/0?context=%7b%22Tid%22%3a%22aa3aeacc-6307-42b2-ac05-787dd5c32574%22%2c%22Oid%22%3a%2289da8bba-97dd-4619-9650-a0c34abc187e%22%7d) |
+| Thursday ?? January 2023 | unknown | unknown | |
 
 
 ## Past meetings
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2022-12-12 | Erik | 9 | Project status and Bert Brainstorm |
 | 2022-11-14 | Jisk | 6 | NLP @ NLeSC and Bert Brainstorm |
 | 2022-10-17 | Ole  | 9 | Guest talk by Marijn Koolen: What can Online Book Reviews tell us about Readers and Platforms | 
 | 2022-09-19 | Erik | 7 | NLP @ NLeSC | 
