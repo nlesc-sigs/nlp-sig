@@ -6,8 +6,9 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 Here is a list of [frequently cited NLP publications](nlp-literature.md).
 
-Contact persons: Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl) ,
-                 Laura Ootes (l.ootes(at)esciencecenter.nl)
+Contact persons: Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl),
+                 Laura Ootes (l.ootes(at)esciencecenter.nl),
+                 Carsten Schnober (c.schnober@esciencecenter.nl)
 
 
 ## Upcoming meetings
