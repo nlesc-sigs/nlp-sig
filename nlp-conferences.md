@@ -11,6 +11,7 @@ Here is a list of recent and upcoming NLP conferences:
 | 9-14 July 2023 | ~~15 December 2022~~ | Toronto, Canada | [ACL 2023](https://2023.aclweb.org) (and NAACL) |
 | 10-14 July 2023 | ~~4 November 2022~~ | Graz, Austria | [DH 2023](https://dh2023.adho.org) |
 | 4-7 September 2023 | 23 April 2023 | Plzen, Czech Republic | [TSD 2023](https://www.tsdconference.org/tsd2023) |
+| 6-20 December 2023 | | Singapore | EMNLP 2023 |
 | December 2023 | | | IJNLP 2023 |
 | unknown | | | CLIN 2023 |
 
