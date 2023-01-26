@@ -16,7 +16,7 @@ Contact persons: Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl),
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday ?? January 2023 | unknown | unknown | |
+| Thursday 8 March 2023 | 13:30-14:30 | Bert hands-on session |  |
 
 
 ## Past meetings
