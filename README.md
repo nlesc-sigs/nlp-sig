@@ -9,14 +9,18 @@ Here is a list of [NLP conferences](nlp-conferences.md) and
 
 Contact persons: Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl),
                  Laura Ootes (l.ootes(at)esciencecenter.nl),
-                 Carsten Schnober (c.schnober@esciencecenter.nl)
+                 Carsten Schnober (c.schnober(at)esciencecenter.nl)
 
 
 ## Upcoming meetings
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday 8 March 2023 | 13:30-14:30 | Bert hands-on session |  |
+| Thursday 9 March 2023 | 13:30-14:30 | Bert hands-on session |  |
+| Thursday 6 April 2023 | 13:30-14:30 | Guest speaker: Roelant Ossewaarde. Topic: Speech Recognition |  |
+| Thursday 4 May 2023 | 13:30-14:30 |  |  |
+| Thursday 1 June 2023 | 13:30-14:30 |  |  |
+| Thursday 29 June 2023 | 13:30-14:30 |  |  |
 
 
 ## Past meetings
