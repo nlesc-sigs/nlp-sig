@@ -20,7 +20,7 @@ Contact persons: Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl),
 | Thursday 9 March 2023 | 13:30-14:30 | Bert hands-on session |  |
 | Thursday 6 April 2023 | 13:30-14:30 | Roelant Ossewaarde: Speech Recognition |  |
 | Thursday 4 May 2023 | 13:30-14:30 |  | (EACL Dubrovnik) |
-| Thursday 1 June 2023 | 13:30-14:30 |  |  |
+| Thursday 1 June 2023 | 13:30-14:30 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges |  |
 | Thursday 29 June 2023 | 13:30-14:30 |  |  |
 
 
