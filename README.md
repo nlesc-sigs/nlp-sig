@@ -7,9 +7,10 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 Here is a list of [NLP conferences](nlp-conferences.md) and
         a list of [frequently cited NLP publications](nlp-literature.md).
 
-Contact persons: Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl),
-                 Laura Ootes (l.ootes(at)esciencecenter.nl),
-                 Carsten Schnober (c.schnober(at)esciencecenter.nl)
+SIG Lead (2023): Laura Ootes (l.ootes(at)esciencecenter.nl)
+
+Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl) was SIG Lead in 2022 and
+Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 
 ## Upcoming meetings
