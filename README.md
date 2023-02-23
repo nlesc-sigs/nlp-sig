@@ -17,7 +17,6 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday 9 February 2023 | cancelled |  | (SSH Tilburg event) |
 | Thursday 9 March 2023 | 13:30-14:30 | Bert hands-on session |  |
 | Thursday 6 April 2023 | 13:30-14:30 | [Roelant Ossewaarde](https://www.internationalhu.com/research/researchers/roelant-ossewaarde): Speech Recognition |  |
 | Thursday 4 May 2023 | 13:30-14:30 |  | (EACL Dubrovnik) |
