@@ -21,7 +21,7 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 | Thursday 6 April 2023 | 13:30-14:30 | [Roelant Ossewaarde](https://www.internationalhu.com/research/researchers/roelant-ossewaarde): Speech Recognition |  |
 | Thursday 4 May 2023 | 13:30-14:30 |  | (EACL Dubrovnik) |
 | Thursday 1 June 2023 | 13:30-14:30 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges |  |
-| Thursday 29 June 2023 | 13:30-14:30 | Eva Viviani | [Paper discussion](https://arxiv.org/pdf/2302.07232.pdf) |
+| Thursday 29 June 2023 | 13:30-14:30 | Eva Viviani: [Paper discussion](https://arxiv.org/pdf/2302.07232.pdf) | |
 
 
 ## Past meetings
