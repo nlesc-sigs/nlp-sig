@@ -8,13 +8,13 @@ Here is a list of recent and upcoming NLP conferences:
 | ----- | -------- | -------- | ---------- |
 | ~~20 February 2023~~ | ~~25 January 2023~~| Hilversum, Netherlands | [1st Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
 | 2-6 May 2023 | ~~20 October 2022~~ | Dubrovnic, Croatia | [EACL 2023](https://2023.eacl.org) |
-| 31-2 June 2023 | 7 February 2023 | Brussels, Belgium | [DH Benelux 2023](https://2023.dhbenelux.org) |
+| 31-2 June 2023 | ~~7 February 2023~~ | Brussels, Belgium | [DH Benelux 2023](https://2023.dhbenelux.org) |
 | 9-14 July 2023 | ~~15 December 2022~~ | Toronto, Canada | [ACL 2023](https://2023.aclweb.org) (and NAACL) |
 | 10-14 July 2023 | ~~4 November 2022~~ | Graz, Austria | [DH 2023](https://dh2023.adho.org) |
 | 4-7 September 2023 | 23 April 2023 | Plzen, Czech Republic | [TSD 2023](https://www.tsdconference.org/tsd2023) |
+| 22 September 2023 | 15 June 2023 | Antwerp, Belgium | CLIN 2023 |
 | 6-10 December 2023 | | Singapore | EMNLP 2023 |
 | December 2023 | | | IJNLP 2023 |
-| unknown | | | CLIN 2023 |
 
 ## 2022
 
