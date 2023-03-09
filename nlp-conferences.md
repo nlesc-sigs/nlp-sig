@@ -7,6 +7,7 @@ Here is a list of recent and upcoming NLP conferences:
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
 | ~~20 February 2023~~ | ~~25 January 2023~~| Hilversum, Netherlands | [1st Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
+| 1-5 May 2023 | ~~21 September 2022~~ | Kigali, Rwanda | [ICLR 2023](https://iclr.cc/) |
 | 2-6 May 2023 | ~~20 October 2022~~ | Dubrovnic, Croatia | [EACL 2023](https://2023.eacl.org) |
 | 31-2 June 2023 | ~~7 February 2023~~ | Brussels, Belgium | [DH Benelux 2023](https://2023.dhbenelux.org) |
 | 9-14 July 2023 | ~~15 December 2022~~ | Toronto, Canada | [ACL 2023](https://2023.aclweb.org) (and NAACL) |
