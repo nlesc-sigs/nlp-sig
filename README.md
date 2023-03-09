@@ -17,7 +17,6 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday 9 March 2023 | 13:30-14:30 | Erik Tjong Kim Sang: Bert hands-on session ([notebook](https://github.com/eriktks/bert_tutorial)) | [Teams link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZDJkOWIyMGUtZjgzNC00MmEzLWFiOWUtYTMzY2M1MDZhYmNk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522aa3aeacc-6307-42b2-ac05-787dd5c32574%2522%252c%2522Oid%2522%253a%2522bcbbafe4-e50f-4f75-9e56-e8a65f2b791e%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=81ecf3d3-6e57-4714-bbdb-5ffe06ff223c&directDl=true&msLaunch=true&enableMobilePage=true) |
 | Thursday 6 April 2023 | 13:30-14:30 | [Roelant Ossewaarde](https://www.internationalhu.com/research/researchers/roelant-ossewaarde): Speech Recognition |  |
 | Thursday 11 May 2023 | 13:30-14:30 | Looking back: EACL Dubrovnik | |
 | Thursday 1 June 2023 | 13:30-14:30 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges |  |
@@ -28,6 +27,7 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2023-03-09 | Erik | 14 | Bert hands-on session ([notebook](https://github.com/eriktks/bert_tutorial)) | 
 | 2022-12-12 | Erik | 9 | Project status and Bert Brainstorm |
 | 2022-11-14 | Jisk | 6 | NLP @ NLeSC and Bert Brainstorm |
 | 2022-10-17 | Ole  | 9 | Guest talk by Marijn Koolen: What can Online Book Reviews tell us about Readers and Platforms | 
