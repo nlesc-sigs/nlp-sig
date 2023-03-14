@@ -23,8 +23,8 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 - list of [NLP conferences](nlp-conferences.md)
 - list of [frequently cited NLP publications](nlp-literature.md)
-- [CLIN conference](https://www.let.rug.nl/vannoord/Clin/) (Computational Linguistics in The Netherlands) with their own [journal](https://www.clinjournal.org/clinj)
 - [Association for Computational Linguistics](https://www.aclweb.org/portal/)
+- [CLIN conference](https://www.let.rug.nl/vannoord/Clin/) (Computational Linguistics in The Netherlands) with their own [journal](https://www.clinjournal.org/clinj)
 - [NOTaS](https://notas.nl/) (Dutch Organisation for Language and Speech Technology)
-  
+- [History of Dutch Computational Linguistics](https://www.let.rug.nl/vannoord/TST-Geschiedenis/) (book)  
 
