@@ -17,12 +17,14 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 | Thursday 1 June 2023 | 13:30-14:30 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges |  |
 | Thursday 29 June 2023 | 13:30-14:30 | Eva Viviani: [Paper discussion](https://arxiv.org/pdf/2302.07232.pdf) | |
 
+[Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
+
 ## Links
 
 - list of [NLP conferences](nlp-conferences.md)
 - list of [frequently cited NLP publications](nlp-literature.md)
-- [https://www.let.rug.nl/vannoord/Clin/](CLIN conference) (Computational Linguistics in The Netherlands) with their own [https://www.clinjournal.org/clinj](journal)
-- [https://www.aclweb.org/portal/](Association for Computational Linguistics)
-- [https://notas.nl/](NOTaS) (Dutch Organisation for Language and Speech Technology)
+- [CLIN conference](https://www.let.rug.nl/vannoord/Clin/) (Computational Linguistics in The Netherlands) with their own [journal](https://www.clinjournal.org/clinj)
+- [Association for Computational Linguistics](https://www.aclweb.org/portal/)
+- [NOTaS](https://notas.nl/) (Dutch Organisation for Language and Speech Technology)
   
 
