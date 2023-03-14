@@ -1,6 +1,7 @@
 # Natural Language Processing Conferences
 
-Here is a list of recent and upcoming NLP conferences:
+Here is a list of recent and upcoming NLP conferences.
+For a list of Machine Learning conferences, check the [SIG ML conferences page](https://github.com/NLeSC/Machine_Learning_SIG/blob/master/conferences.md).
 
 ## 2023
 
