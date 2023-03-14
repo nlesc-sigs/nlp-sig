@@ -1,6 +1,6 @@
 ## Past meetings
 
-This is a list of past meetings of the Natural Language Processing (NLP) SIG of the Netherlands eScience Center. There is also a list of [https://github.com/nlesc-sigs/nlp-sig#upcoming-meetings](upcoming meetings).
+This is a list of past meetings of the Natural Language Processing (NLP) SIG of the Netherlands eScience Center. There is also a list of [upcoming meetings](https://github.com/nlesc-sigs/nlp-sig#upcoming-meetings).
 
 In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-deeplearning.md). The course meetings were additional meetings which are not listed in this overview.
 

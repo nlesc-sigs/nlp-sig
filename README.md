@@ -4,7 +4,7 @@ The Natural Language Processing (NLP) SIG (formerly eHumanities SIG) of the Neth
 
 SIG Lead (2023): Laura Ootes (l.ootes(at)esciencecenter.nl)
 
-Erik Tjong Kim Sang (e.tjongkimsang(a)esciencenter.nl) was SIG Lead in 2018-2022 and
+Erik Tjong Kim Sang (e.tjongkimsang(at)esciencenter.nl) was SIG Lead in 2018-2022 and
 Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 
