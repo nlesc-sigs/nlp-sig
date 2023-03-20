@@ -32,5 +32,6 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~24-29 July 2022~~ | ~~10 December 2021~~ | Tokyo, Japan | [DH 2022](https://dh2022.adho.org) |
 | ~~6-9 September 2022~~ | ~~22 April 2022~~ | Brno, Czech Republic | [TSD 2022](https://www.tsdconference.org/tsd2022) |
 | ~~20-23 November 2022~~ | ~~15 July 2022~~ | online | [IJCNLP 2022](https://www.aacl2022.org) |
+| ~~7-8 December 2022~~ | ~~30 June 2022~~ | Abu Dhabi, United Arab Emirates | [CoNLL 2022](conll.org/2022) |
 | ~~December 2022~~ | ~~24 June 2022~~ | Abu Dhabi, United Arab Emirates | [EMNLP 2022](2022.emnlp.org) |
 
