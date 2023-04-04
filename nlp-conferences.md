@@ -3,6 +3,13 @@
 Here is a list of recent and upcoming NLP conferences.
 For a list of Machine Learning conferences, check the [SIG ML conferences page](https://github.com/NLeSC/Machine_Learning_SIG/blob/master/conferences.md).
 
+
+## 2024
+
+| Dates | Deadline | Location | Conference |
+| ----- | -------- | -------- | ---------- |
+| 20-25 May | TBA | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
+
 ## 2023
 
 | Dates | Deadline | Location | Conference |
