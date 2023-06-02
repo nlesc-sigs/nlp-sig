@@ -7,7 +7,9 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
-| Thursday 6 April 2023 | Laura | 15 | [Roelant Ossewaarde](https://www.internationalhu.com/research/researchers/roelant-ossewaarde): Speech Recognition |  |
+| 2023-06-01 | Laura | 9 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges | 
+| 2023-05-11| Laura | 8 | Carsten Schnober, Erik Tjong Kim Sang, Eva Viviani, Laura Ootes: Looking back at the EACL Dubrovnik |
+| 2023-04-06| Laura | 15 | [Roelant Ossewaarde](https://www.internationalhu.com/research/researchers/roelant-ossewaarde): Speech Recognition |  |
 | 2023-03-09 | Erik | 14 | Bert hands-on session ([notebook](https://github.com/eriktks/bert_tutorial)) | 
 | 2022-12-12 | Erik | 9 | Project status and Bert Brainstorm |
 | 2022-11-14 | Jisk | 6 | NLP @ NLeSC and Bert Brainstorm |
