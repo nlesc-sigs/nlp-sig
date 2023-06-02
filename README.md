@@ -12,9 +12,9 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday 11 May 2023 | 13:30-14:30 | Carsten Schnober, Erik Tjong Kim Sang, Eva Viviani, Laura Ootes: Looking back at the EACL Dubrovnik | |
-| Thursday 1 June 2023 | 13:30-14:30 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges |  |
-| Thursday 29 June 2023 | 13:30-14:30 | Eva Viviani: [Paper discussion](https://arxiv.org/pdf/2302.07232.pdf) | |
+| Thursday 15 June 2023 | 13:30-14:30 | [Sandro Pezzelle](https://sandropezzelle.github.io/): Semantic representations of words in (multimodal) masked language models | |
+
+#### ** Holiday until September ** 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
