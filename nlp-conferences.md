@@ -15,15 +15,15 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
 | ~~20 February 2023~~ | ~~25 January 2023~~| Hilversum, Netherlands | [1st Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
-| 2-6 April 2023 | ~~30 September 2022~~ | Dublin, Ireland | [ECIR 2023](https://ecir2023.org/) |
-| 1-5 May 2023 | ~~21 September 2022~~ | Kigali, Rwanda | [ICLR 2023](https://iclr.cc/) |
-| 2-6 May 2023 | ~~20 October 2022~~ | Dubrovnic, Croatia | [EACL 2023](https://2023.eacl.org) |
-| 31-2 June 2023 | ~~7 February 2023~~ | Brussels, Belgium | [DH Benelux 2023](https://2023.dhbenelux.org) |
+| ~~2-6 April 2023~~ | ~~30 September 2022~~ | Dublin, Ireland | [ECIR 2023](https://ecir2023.org/) |
+| ~~1-5 May 2023~~ | ~~21 September 2022~~ | Kigali, Rwanda | [ICLR 2023](https://iclr.cc/) |
+| ~~2-6 May 2023~~ | ~~20 October 2022~~ | Dubrovnic, Croatia | [EACL 2023](https://2023.eacl.org) |
+| ~~31-2 June 2023~~ | ~~7 February 2023~~ | Brussels, Belgium | [DH Benelux 2023](https://2023.dhbenelux.org) |
 | 9-14 July 2023 | ~~15 December 2022~~ | Toronto, Canada | [ACL 2023](https://2023.aclweb.org) (and NAACL) |
 | 10-14 July 2023 | ~~4 November 2022~~ | Graz, Austria | [DH 2023](https://dh2023.adho.org) |
 | 23-27 July 2023 | ~~24 January 2023~~ | Teipei, Taiwan | [SIGIR 2023](https://sigir.org/sigir2023/) |
 | 20-24 Augustus 2023 | ~~1 March 2023~~ | Dublin, Ireland | [Interspeech 2023](https://www.interspeech2023.org/) |
-| 4-7 September 2023 | 23 April 2023 | Plzen, Czech Republic | [TSD 2023](https://www.tsdconference.org/tsd2023) |
+| 4-7 September 2023 | ~~23 April 2023~~ | Plzen, Czech Republic | [TSD 2023](https://www.tsdconference.org/tsd2023) |
 | 22 September 2023 | 15 June 2023 | Antwerp, Belgium | [CLIN 2023](https://clin33.uantwerpen.be/) |
 | 6-8 December 2023 | 24 July 2023 | Paris, France | [CHR 2023](https://2023.computational-humanities-research.org/cfp/) |
 | 6-10 December 2023 | 16 June 2023| Singapore | [EMNLP 2023](https://2023.emnlp.org/) |
