@@ -12,7 +12,7 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday 15 June 2023 | 13:30-14:30 | [Sandro Pezzelle](https://sandropezzelle.github.io/): Semantic representations of words in (multimodal) masked language models | |
+| Thursday X September | 13:30-14:30 | - | |
 
 #### ** Holiday until September ** 
 

@@ -7,6 +7,7 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2023-06-15 | Laura | 13 | [Sandro Pezzelle](https://sandropezzelle.github.io/): Semantic representations of words in (multimodal) masked language models [video recording](https://nlesc-my.sharepoint.com/:v:/g/personal/l_ootes_esciencecenter_nl/EVZsLZJGtWZPid-MKMvE-yMBtTst-_o-KAc-ILBNToHEUA)| 
 | 2023-06-01 | Laura | 9 | Malte L&uuml;ken: The Structural Topic Model: Introduction, application, and challenges [video recording](https://nlesc-my.sharepoint.com/personal/l_ootes_esciencecenter_nl/_layouts/15/stream.aspx?id=%2Fpersonal%2Fl%5Footes%5Fesciencecenter%5Fnl%2FDocuments%2FRecordings%2FSIG%208%5F%20NLP%20SIG%2D20230601%5F133333%2DMeeting%20Recording%2Emp4&ga=1)| 
 | 2023-05-11| Laura | 8 | Carsten Schnober, Erik Tjong Kim Sang, Eva Viviani, Laura Ootes: Looking back at the EACL Dubrovnik |
 | 2023-04-06| Laura | 15 | [Roelant Ossewaarde](https://www.internationalhu.com/research/researchers/roelant-ossewaarde): Speech Recognition |  |
