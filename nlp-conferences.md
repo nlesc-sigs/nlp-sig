@@ -24,7 +24,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 23-27 July 2023 | ~~24 January 2023~~ | Teipei, Taiwan | [SIGIR 2023](https://sigir.org/sigir2023/) |
 | 20-24 Augustus 2023 | ~~1 March 2023~~ | Dublin, Ireland | [Interspeech 2023](https://www.interspeech2023.org/) |
 | 4-7 September 2023 | ~~23 April 2023~~ | Plzen, Czech Republic | [TSD 2023](https://www.tsdconference.org/tsd2023) |
-| 22 September 2023 | 15 June 2023 | Antwerp, Belgium | [CLIN 2023](https://clin33.uantwerpen.be/) |
+| 22 September 2023 | ~~15 June 2023~~ | Antwerp, Belgium | [CLIN 2023](https://clin33.uantwerpen.be/) |
 | 6-8 December 2023 | 24 July 2023 | Paris, France | [CHR 2023](https://2023.computational-humanities-research.org/cfp/) |
 | 6-10 December 2023 | 16 June 2023| Singapore | [EMNLP 2023](https://2023.emnlp.org/) |
 | December 2023 | | | IJNLP 2023 |
