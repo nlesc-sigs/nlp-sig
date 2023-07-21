@@ -8,7 +8,13 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| 20-25 May | TBA | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
+| 17-22 March | 15 October 2023 | Malta | EACL 2024 | 
+| 24-28 March | 20/27 September 2023 | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
+| 7-11 May | 21 September 2023 | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
+| 20-25 May | 13 October 2023 | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
+| 5-7 June | TBD | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
+| 6-9 August | TBD | Washington D.C., USA | DH 2024 |
+| TBD | TBD | Bangkok, Thailand | ACL 2024 |
 
 ## 2023
 
@@ -19,8 +25,8 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~1-5 May 2023~~ | ~~21 September 2022~~ | Kigali, Rwanda | [ICLR 2023](https://iclr.cc/) |
 | ~~2-6 May 2023~~ | ~~20 October 2022~~ | Dubrovnic, Croatia | [EACL 2023](https://2023.eacl.org) |
 | ~~31-2 June 2023~~ | ~~7 February 2023~~ | Brussels, Belgium | [DH Benelux 2023](https://2023.dhbenelux.org) |
-| 9-14 July 2023 | ~~15 December 2022~~ | Toronto, Canada | [ACL 2023](https://2023.aclweb.org) (and NAACL) |
-| 10-14 July 2023 | ~~4 November 2022~~ | Graz, Austria | [DH 2023](https://dh2023.adho.org) |
+| ~~9-14 July 2023~~ | ~~15 December 2022~~ | Toronto, Canada | [ACL 2023](https://2023.aclweb.org) (and NAACL) |
+| ~~10-14 July 2023~~ | ~~4 November 2022~~ | Graz, Austria | [DH 2023](https://dh2023.adho.org) |
 | 23-27 July 2023 | ~~24 January 2023~~ | Teipei, Taiwan | [SIGIR 2023](https://sigir.org/sigir2023/) |
 | 20-24 Augustus 2023 | ~~1 March 2023~~ | Dublin, Ireland | [Interspeech 2023](https://www.interspeech2023.org/) |
 | 4-7 September 2023 | ~~23 April 2023~~ | Plzen, Czech Republic | [TSD 2023](https://www.tsdconference.org/tsd2023) |
