@@ -14,7 +14,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 20-25 May | 13 October 2023 | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
 | 5-7 June | TBD | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
 | 6-9 August | TBD | Washington D.C., USA | DH 2024 |
-| TBD | TBD | Bangkok, Thailand | ACL 2024 |
+| July or August | TBD | Bangkok, Thailand | ACL 2024 |
 
 ## 2023
 
