@@ -8,6 +8,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
+| 10-14 March | 10/31 October 2023 | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
 | 17-22 March | 15 October 2023 | Malta | EACL 2024 | 
 | 24-28 March | 20/27 September 2023 | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
 | 7-11 May | 21 September 2023 | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
