@@ -12,9 +12,15 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday X September | 13:30-14:30 | - | |
+| Thursday 28 September | 13:30-14:30 | Carsten: "Classifying the Quality of Digitized VOC Documents" | [CLIN abstract](https://clin33.uantwerpen.be/abstract/classifying-the-quality-of-digitized-voc-documents/)|
+| Thursday 26 October| 13:30-14:30|||
+| Thursday 23 November ||||
+| Thursday 21 December ||||
+| Thursday 18 January ||||
+| Thursday 15 February ||||
+| Thursday 14 March ||||
+|||||
 
-#### ** Holiday until September ** 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
