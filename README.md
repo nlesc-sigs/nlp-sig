@@ -13,7 +13,7 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 | Date | Time |Topic | More info |
 |------|------|------|------------|
 | Thursday 28 September | 13:30-14:30 | Carsten: "Classifying the Quality of Digitized VOC Documents" | [CLIN abstract](https://clin33.uantwerpen.be/abstract/classifying-the-quality-of-digitized-voc-documents/)|
-| Thursday 26 October| 13:30-14:30| Gabriele Sarti: "Applications of the Inseq toolkit for language model interpretability"| Use cases for gender bias, knowledge extraction, linguistic analysis, and context sensitivity.|
+| Thursday 26 October| 13:30-14:30| Gabriele Sarti: "Post-hoc Interpretability for Language Models"| A discussion on challenges in applying XAI techniques to language generation tasks, with examples from the [Inseq library](https://github.com/inseq-team/inseq) ([ACL 2023 Demo](https://aclanthology.org/2023.acl-demo.40/), eSC Fellowship project) and new insights on evaluating the plausibility of context usage in generative LMs ([preprint](https://arxiv.org/abs/2310.01188))|
 | Thursday 23 November ||||
 | Thursday 21 December ||||
 | Thursday 18 January ||||
