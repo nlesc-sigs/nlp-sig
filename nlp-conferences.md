@@ -8,14 +8,14 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| 10-14 March | 10/31 October 2023 | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
-| 17-22 March | 15 October 2023 | Malta | [EACL 2024](https://2024.eacl.org/) | 
-| 24-28 March | 20/27 September 2023 | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
-| 7-11 May | 21 September 2023 | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
-| 20-25 May | 13 October 2023 | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
+| 10-14 March | ~~10~~/31 October 2023 (full/short papers) | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
+| 17-22 March | ~~15 October 2023~~ | Malta | [EACL 2024](https://2024.eacl.org/) | 
+| 24-28 March | ~~20/27 September 2023~~ | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
+| 7-11 May | ~~21 September 2023~~ | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
+| 20-25 May | ~~13 October 2023~~ | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
 | 5-7 June | TBD | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
-| 6-9 August | TBD | Washington D.C., USA | DH 2024 |
-| July or August | TBD | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
+| 6-9 August | TBD (early December 2023) | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
+| 12-17 August | TBD | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
 | 30 August - 4 September | TBD | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
 | 1-5 September | TBD | Jerusalem, Israel | [Interspeech 2024](https://interspeech2024.org/) |
 
