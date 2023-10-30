@@ -8,7 +8,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| 19 February | TBD | Hilversum, Netherlands | [2nd Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
+| 19 February | 25 January | Hilversum, Netherlands | [2nd Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
 | 10-14 March | ~~10~~/31 October 2023 (full/short papers) | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
 | 17-22 March | ~~15 October 2023~~ | Malta | [EACL 2024](https://2024.eacl.org/) | 
 | 24-28 March | ~~20/27 September 2023~~ | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
