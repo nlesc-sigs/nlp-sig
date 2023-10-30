@@ -13,7 +13,7 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 | Date | Time |Topic | More info |
 |------|------|------|------------|
 | Thursday 23 November | 13:30 - 14:30 |||
-| Thursday 21 December ||||
+| Thursday 21 December | 13:30 - 14:30 | Raoul Schram ||
 | Thursday 18 January ||||
 | Thursday 15 February ||||
 | Thursday 14 March ||||
