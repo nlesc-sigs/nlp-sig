@@ -9,7 +9,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
 | 19 February | 25 January | Hilversum, Netherlands | [2nd Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
-| 10-14 March | ~~10~~/31 October 2023 (full/short papers) | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
+| 10-14 March | ~~10/31 October 2023 (full/short papers)~~ | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
 | 17-22 March | ~~15 October 2023~~ | Malta | [EACL 2024](https://2024.eacl.org/) | 
 | 24-28 March | ~~20/27 September 2023~~ | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
 | 7-11 May | ~~21 September 2023~~ | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
@@ -35,7 +35,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~20-24 Augustus 2023~~ | ~~1 March 2023~~ | Dublin, Ireland | [Interspeech 2023](https://www.interspeech2023.org/) |
 | ~~4-7 September 2023~~ | ~~23 April 2023~~ | Plzen, Czech Republic | [TSD 2023](https://www.tsdconference.org/tsd2023) |
 | ~~22 September 2023~~ | ~~15 June 2023~~ | Antwerp, Belgium | [CLIN 2023](https://clin33.uantwerpen.be/) |
-| 1-4 November 2023 | ~~23 May 2023~~ | Bali, Indonesia | [IJNLP 2023](http://www.ijcnlp-aacl2023.org/) |
+| ~~1-4 November 2023~~ | ~~23 May 2023~~ | Bali, Indonesia | [IJNLP 2023](http://www.ijcnlp-aacl2023.org/) |
 | 6-8 December 2023 | ~~24 July~~ ~~1 August 2023~~ | Paris, France | [CHR 2023](https://2023.computational-humanities-research.org/cfp/) |
 | 6-10 December 2023 | ~~16 June 2023~~| Singapore | [EMNLP 2023](https://2023.emnlp.org/) |
 
