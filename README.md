@@ -12,12 +12,12 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday 23 November | 13:30 - 14:30 |||
-| Thursday 21 December | 13:30 - 14:30 | Raoul Schram ||
-| Thursday 18 January ||||
-| Thursday 15 February ||||
-| Thursday 14 March ||||
-|||||
+| Thursday 23 November | 13:30 - 14:30 | Thijs Vroegh | Historiographing the Era of the American Revolution: semi-supervised & dynamic topic modeling |
+| Thursday 11 January | 13:30 - 14:30 | Raoul Schram ||
+| ||||
+| Thursday 1 February ||||
+| Thursday 29 February ||||
+| Thursday 28 March ||||
 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
