@@ -17,6 +17,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 5-7 June | TBD | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
 | 6-9 August | TBD (early December 2023) | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
 | 12-17 August | TBD | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
+| 30 August | TBD | Leiden, NL | Computational Linguistics in the Netherlands (CLIN 34) |
 | 30 August - 4 September | TBD | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
 | 1-5 September | TBD | Jerusalem, Israel | [Interspeech 2024](https://interspeech2024.org/) |
 
