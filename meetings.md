@@ -7,6 +7,7 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
+| 2024-01-11 | Carsten | 12 | [Raoul Schram](https://www.uu.nl/staff/RDSchram): "Topic modelling: Data exploration in clinical psychology" |
 | 2023-11-23 | Laura | 6 | Thijs Vroegh: "Historiographing the Era of the American Revolution: semi-supervised & dynamic topic modeling" |
 | 2023-10-26 | Carsten | 7 |Gabriele Sarti: "Post-hoc Interpretability for Language Models" |
 | 2023-09-28 | Laura | 9 | Carsten Schnober: "Classifying the Quality of Digitized VOC Documents" | [CLIN abstract](https://clin33.uantwerpen.be/abstract/classifying-the-quality-of-digitized-voc-documents/)|
