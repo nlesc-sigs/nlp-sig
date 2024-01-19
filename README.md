@@ -12,7 +12,7 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 
 | Date | Time |Topic | More info |
 |------|------|------|------------|
-| Thursday 1 February | 15:30 - 16:30 | Angel Daza - ||
+| Thursday 1 February | 15:30 - 16:30 | Angel Daza - "Informed Evaluation for Named Entity Recognition on Dutch Biographies"||
 | Thursday 29 February | 13:30 - 14:30 | Kody Moodley - ||
 | Thursday 28 March ||||
 
