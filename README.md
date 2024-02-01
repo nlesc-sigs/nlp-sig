@@ -16,6 +16,8 @@ Carsten Schnober (c.schnober(at)esciencecenter.nl) will be SIG Lead in 2024.
 | Thursday 29 February | 13:30 - 14:30 | Kody Moodley and Chris Meijer  | "How strict is EU law?" |
 | Thursday 28 March | 13:30 - 14:30 | Eva Viviani and Laura Ootes | Brainstorm session on NLP lesson development |
 | Thursday 25 April | 13:30 - 14:30 | Thijs Vroegh | Dynamic toplic modelling|
+| Thursday 24 May | 13:30 - 14:30 | | |
+| Thursday 20 June | 13:30 - 14:30 | | |
 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
