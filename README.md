@@ -2,7 +2,10 @@
 
 The Natural Language Processing (NLP) SIG (formerly eHumanities SIG) of the Netherlands eScience Center is a group of researchers interested in humanities and natural language processing. We meet once every four weeks on [Thursdays (13:30)](#upcoming-meetings) to discuss progress of our projects and recent developments in the field. A list of previous meetings and their topics can be found below. At request, the meetings may be joined by external people.
 
-SIG Leads: [Laura Ootes](https://www.esciencecenter.nl/team/dr-laura-ootes/), [Erik Tjong Kim Sang](https://www.esciencecenter.nl/team/dr-ir-erik-tjong-kim-sang/), [Carsten Schnober](https://www.esciencecenter.nl/team/carsten-schnober/)
+SIG Leads:
+- 2024: [Carsten Schnober](https://www.esciencecenter.nl/team/carsten-schnober/)
+- 2023: [Laura Ootes](https://www.esciencecenter.nl/team/dr-laura-ootes/)
+- 2022: [Erik Tjong Kim Sang](https://www.esciencecenter.nl/team/dr-ir-erik-tjong-kim-sang/)
 
 ## Upcoming meetings
 
