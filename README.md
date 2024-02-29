@@ -11,7 +11,6 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| Thursday February 29 | 13:30 - 14:30 | Kody Moodley and Chris Meijer  | "How strict is EU law?" |
 | Thursday March 28 | 13:30 - 14:30 | Eva Viviani and Laura Ootes | Brainstorm session on NLP lesson development |
 | Thursday April 25 | 13:30 - 14:30 | Thijs Vroegh | Dynamic toplic modelling|
 | Thursday May 23 | 13:30 - 14:30 | Lorella Viola (VU) | |
