@@ -8,18 +8,18 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| 19 February | ~~25 January~~ | Hilversum, Netherlands | [2nd Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
+| ~~19 February~~ | ~~25 January~~ | Hilversum, Netherlands | [2nd Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
 | 10-14 March | ~~10/31 October 2023 (full/short papers)~~ | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
 | 17-22 March | ~~15 October 2023~~ | Malta | [EACL 2024](https://2024.eacl.org/) | 
 | 24-28 March | ~~20/27 September 2023~~ | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
 | 7-11 May | ~~21 September 2023~~ | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
 | 20-25 May | ~~13 October 2023~~ | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
-| 5-7 June | TBD | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
-| 6-9 August | TBD (early December 2023) | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
-| 12-17 August | TBD | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
+| 5-7 June | ~~7 February 2024~~ | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
+| 6-9 August | ~~10 December 2023~~ | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
+| 12-17 August | ~~15 February 2024~~ | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
 | 30 August | TBD | Leiden, NL | Computational Linguistics in the Netherlands (CLIN 34) |
-| 30 August - 4 September | TBD | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
-| 1-5 September | 2 March | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
+| 30 August - 4 September | ~~12 February 2024~~ | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
+| 1-5 September | ~~2 March~~ | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
 
 ## 2023
 
