@@ -21,6 +21,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 30 August - 4 September | ~~12 February 2024~~ | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
 | 1-5 September | ~~2 March~~ | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
 | 19-20 October | 30 June | Trento, Italy | [ICNLSP](https://www.icnlsp.org/2024welcome/) |
+| 4-6 December | TBD | Aarhus, Denmark | [CHR 2024](https://2024.computational-humanities-research.org/) |
 
 ## 2023
 
