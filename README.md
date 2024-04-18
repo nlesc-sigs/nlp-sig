@@ -14,7 +14,7 @@ SIG Leads:
 | Thursday April 25 | 13:30 - 14:30 | Thijs Vroegh | Dynamic toplic modelling |
 | Thursday May 23 | 13:30 - 14:30 | Lorella Viola (VU) | |
 | Thursday June 20 | 13:30 - 14:30 | [Claudiu Forgaci](https://www.esciencecenter.nl/fellowship-programme/claudiu-forgaci/) | [mintEMU - The Legacy of the European Postgraduate Master in Urbanism at TU Delft: A Text Mining Approach](https://github.com/UD3-Lab/mintEMU) |
-| Thursday July 18 | 13:30 - 14:30 | Tentative: [Stella Verkijk (KNAW, VU Amsterdam)](https://pure.knaw.nl/portal/nl/persons/stella-verkijk) | TBD |
+| Thursday July 18 | 13:30 - 14:30 | Tentative: Stella Verkijk (VU Amsterdam, KNAW) | TBD |
 
 
 
