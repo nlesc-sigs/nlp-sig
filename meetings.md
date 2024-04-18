@@ -7,7 +7,6 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
-| Thursday April 25 | Carsten | 10 | Thijs Vroegh: Dynamic toplic modelling|
 | Thursday March 21 | Carsten | 10 | Eva Viviani and Laura Ootes: Brainstorm session on NLP lesson development |
 | 2024-02-29 | Carsten | 10 | Kody Moodley and Chris Meijer: "How strict is EU law?" [video recording](https://nlesc-my.sharepoint.com/:v:/g/personal/l_ootes_esciencecenter_nl/ETcg3Oya7mhBpJ4WrgmlPXsBPril5CKNw79btgXFD7kbOA?referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view.view) |
 | 2024-02-01 | Laura | 13 | Angel Daza: "Informed Evaluation for Named Entity Recognition on Dutch Biographies"
