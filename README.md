@@ -15,7 +15,8 @@ SIG Leads:
 | Thursday May 23 | 13:30 - 14:30 | Lorella Viola (VU) | |
 | Thursday June 20 | 13:30 - 14:30 | [Claudiu Forgaci](https://www.esciencecenter.nl/fellowship-programme/claudiu-forgaci/) | [mintEMU - The Legacy of the European Postgraduate Master in Urbanism at TU Delft: A Text Mining Approach](https://github.com/UD3-Lab/mintEMU) |
 | Thursday July 18 | 13:30 - 14:30 | Tentative: Stella Verkijk (VU Amsterdam, KNAW) | TBD |
-
+| August | Summer break | -- | -- |
+| Thursday September 26 | TBD | TBD | TBD |
 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
