@@ -17,7 +17,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 5-7 June | ~~7 February 2024~~ | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
 | 6-9 August | ~~10 December 2023~~ | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
 | 12-17 August | ~~15 February 2024~~ | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
-| 30 August | TBD | Leiden, NL | Computational Linguistics in the Netherlands (CLIN 34) |
+| 30 August | TBD | Leiden, NL | [Computational Linguistics in the Netherlands (CLIN 34)](https://clin34.leidenuniv.nl/) |
 | 30 August - 4 September | ~~12 February 2024~~ | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
 | 1-5 September | ~~2 March~~ | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
 | 19-20 October | 30 June | Trento, Italy | [ICNLSP](https://www.icnlsp.org/2024welcome/) |
@@ -47,12 +47,12 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
 | ~~22-27 May 2022~~ | ~~15 November 2021~~ | Dublin, Ireland | [ACL 2022](https://www.2022.aclweb.org) (and EACL) |
-| ~~1-3 June 2022~~ | ~~11 February 2022~~ | Luxembourg, Luxembourg | [DH Benelux 2022](https://2022.dhbenelux.org/) |
+| ~~1-3 June 2022~~ | ~~11 February 2022~~ | Luxembourg, Luxembourg | DH Benelux 2022 |
 | ~~17 June 2022~~ | ~~1 April 2022~~ | Tilburg, The Netherlands | [CLIN 2022](https://clin2022.uvt.nl/) |
 | ~~10-15 July 2022~~ | ~~15 January 2022~~ | Seattle, Washington | [NAACL 2022](https://2022.naacl.org/) |
 | ~~24-29 July 2022~~ | ~~10 December 2021~~ | Tokyo, Japan | [DH 2022](https://dh2022.adho.org) |
 | ~~6-9 September 2022~~ | ~~22 April 2022~~ | Brno, Czech Republic | [TSD 2022](https://www.tsdconference.org/tsd2022) |
-| ~~20-23 November 2022~~ | ~~15 July 2022~~ | online | [IJCNLP 2022](https://www.aacl2022.org) |
+| ~~20-23 November 2022~~ | ~~15 July 2022~~ | online | IJCNLP 2022 |
 | ~~7-8 December 2022~~ | ~~30 June 2022~~ | Abu Dhabi, United Arab Emirates | [CoNLL 2022](https://conll.org/2022) |
 | ~~9-11 December 2022~~ | ~~24 June 2022~~ | Abu Dhabi, United Arab Emirates | [EMNLP 2022](https://2022.emnlp.org) |
 
