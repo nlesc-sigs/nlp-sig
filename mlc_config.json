@@ -1,0 +1,16 @@
+{
+  "projectBaseUrl":"${workspaceFolder}",
+  "ignorePatterns": [
+      {
+          "pattern": "^https://www.esciencecenter.nl/team/.*/$"
+      },
+      {
+          "pattern": "^https://www.esciencecenter.nl/fellowship-programme.*/"
+      }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206]
+}
