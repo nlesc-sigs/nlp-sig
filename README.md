@@ -11,11 +11,13 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| Thursday May 23 | 13:30 - 14:30 | Lorella Viola (VU) | |
-| Thursday June 20 | 13:30 - 14:30 | [Claudiu Forgaci](https://www.esciencecenter.nl/fellowship-programme/claudiu-forgaci/) | [mintEMU - The Legacy of the European Postgraduate Master in Urbanism at TU Delft: A Text Mining Approach](https://github.com/UD3-Lab/mintEMU) |
-| Thursday July 18 | 13:30 - 14:30 | Tentative: Stella Verkijk (VU Amsterdam, KNAW) | TBD |
+| May 23th | 13:30 - 14:30 | Lorella Viola (VU) | Conceptual changes in health disinformation narratives. A social media, graph-based analysis of the HPV vaccine case in Italy |
+| June 20th | 13:30 - 14:30 | [Claudiu Forgaci](https://www.esciencecenter.nl/fellowship-programme/claudiu-forgaci/) | [mintEMU - The Legacy of the European Postgraduate Master in Urbanism at TU Delft: A Text Mining Approach](https://github.com/UD3-Lab/mintEMU) |
+| Thursday July 18th | TBD | TBD | TBD |
 | August | Summer break | -- | -- |
-| Thursday September 26 | TBD | TBD | TBD |
+| September 26th | TBD | TBD | TBD |
+| October 24th | 13:30 - 14:30 | Stella Verkijk (VU Amsterdam) | Automatic Event Detection in Early Modern Dutch (VOC) documents |
+
 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
