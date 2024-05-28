@@ -11,7 +11,6 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| May 23th | 13:30 - 14:30 | Lorella Viola (VU) | Conceptual changes in health disinformation narratives. A social media, graph-based analysis of the HPV vaccine case in Italy |
 | June 20th | 13:30 - 14:30 | [Claudiu Forgaci](https://www.esciencecenter.nl/fellowship-programme/claudiu-forgaci/) | [mintEMU - The Legacy of the European Postgraduate Master in Urbanism at TU Delft: A Text Mining Approach](https://github.com/UD3-Lab/mintEMU) |
 | Thursday July 18th | TBD | TBD | TBD |
 | August | Summer break | -- | -- |
