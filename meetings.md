@@ -7,7 +7,7 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session leader | People | Topic |
 |------|----------------|--------|-------|
-| 2024-05-23 | Laura, Carsten | 11 | Lorella Viola (VU): Conceptual changes in health disinformation narratives. A social media, graph-based analysis of the HPV vaccine case in Italy |
+| 2024-05-23 | Laura, Carsten | 11 | Lorella Viola (VU): Conceptual changes in health disinformation narratives. A social media, graph-based analysis of the HPV vaccine case in Italy [video recording](https://nlesc-my.sharepoint.com/personal/l_ootes_esciencecenter_nl/_layouts/15/stream.aspx?id=%2Fpersonal%2Fl%5Footes%5Fesciencecenter%5Fnl%2FDocuments%2FRecordings%2FNLP%20SIG%2D20240523%5F133801%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4b8c9e99%2D604f%2D450a%2D9415%2De5e1fa70dcc2&ga=1)|
 | 2024-04-25 | Carsten | 9 | Thijs Vroegh: Dynamic toplic modelling |
 | 2024-03-21 | Carsten | 10 | Eva Viviani and Laura Ootes: Brainstorm session on NLP lesson development |
 | 2024-02-29 | Carsten | 10 | Kody Moodley and Chris Meijer: "How strict is EU law?" [video recording](https://nlesc-my.sharepoint.com/:v:/g/personal/l_ootes_esciencecenter_nl/ETcg3Oya7mhBpJ4WrgmlPXsBPril5CKNw79btgXFD7kbOA?referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view.view) |
