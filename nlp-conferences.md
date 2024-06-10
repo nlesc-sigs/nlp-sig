@@ -20,6 +20,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 30 August | TBD | Leiden, NL | [Computational Linguistics in the Netherlands (CLIN 34)](https://clin34.leidenuniv.nl/) |
 | 30 August - 4 September | ~~12 February 2024~~ | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
 | 1-5 September | ~~2 March~~ | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
+| 18-20 September | ~~18 April~~ | Hagen, Germany | [The 10th International Conference on Computational Models of Argument (COMMA 2024)](http://comma2024.krportal.org/index.html)|
 | 19-20 October | 30 June | Trento, Italy | [ICNLSP](https://www.icnlsp.org/2024welcome/) |
 | 4-6 December | 8 July | Aarhus, Denmark | [CHR 2024](https://2024.computational-humanities-research.org/) |
 
