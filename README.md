@@ -11,7 +11,7 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| Thursday July 18th | TBD | TBD | TBD |
+| Thursday July 18th | 13:30-14:30 | Erik Tjong Kim Sang | Knowledge Extraction from Text |
 | August | Summer break | -- | -- |
 | September 26th | TBD | TBD | TBD |
 | October 24th | 13:30 - 14:30 | Stella Verkijk (VU Amsterdam) | Automatic Event Detection in Early Modern Dutch (VOC) documents |
