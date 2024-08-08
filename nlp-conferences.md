@@ -35,7 +35,8 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 19-20 October | 30 June | Trento, Italy | [ICNLSP](https://www.icnlsp.org/2024welcome/) |
 | 4-6 December | 8 July | Aarhus, Denmark | [CHR 2024](https://2024.computational-humanities-research.org/) |
 
-## 2023
+<details>
+  <summary>2023</summary>
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
@@ -53,8 +54,10 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~1-4 November 2023~~ | ~~23 May 2023~~ | Bali, Indonesia | [IJNLP 2023](http://www.ijcnlp-aacl2023.org/) |
 | ~~6-8 December 2023~~ | ~~24 July~~ ~~1 August 2023~~ | Paris, France | [CHR 2023](https://2023.computational-humanities-research.org/cfp/) |
 | ~~6-10 December 2023~~ | ~~16 June 2023~~| Singapore | [EMNLP 2023](https://2023.emnlp.org/) |
+</details>
 
-## 2022
+<details>
+<summary>2022</summary>
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
@@ -67,4 +70,4 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~20-23 November 2022~~ | ~~15 July 2022~~ | online | IJCNLP 2022 |
 | ~~7-8 December 2022~~ | ~~30 June 2022~~ | Abu Dhabi, United Arab Emirates | [CoNLL 2022](https://conll.org/2022) |
 | ~~9-11 December 2022~~ | ~~24 June 2022~~ | Abu Dhabi, United Arab Emirates | [EMNLP 2022](https://2022.emnlp.org) |
-
+</details>
