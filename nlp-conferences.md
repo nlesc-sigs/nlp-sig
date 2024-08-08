@@ -3,6 +3,17 @@
 Here is a list of recent and upcoming NLP conferences.
 For a list of Machine Learning conferences, check the [SIG ML conferences page](https://github.com/NLeSC/Machine_Learning_SIG/blob/master/conferences.md).
 
+## 2025
+
+| Dates | Deadline | Location | Conference |
+| ----- | -------- | -------- | ---------- |
+| 19-24 January | 16 September 2024 | Abu Dhabi | [COLING 2025](https://coling2025.org/) |
+| 24-27 March | 14/31 October 2024 (full/short papers) | Melbourne, Australia | [CHIIR 2025](https://chiir2025.github.io/) |
+| 06-10 April | 02/09/16/23 October 2024 | Lucca, Italy | [ECIR 2025](https://www.ecir2025.org/)
+| 24-28 April | 27 September 2024 | Singapore | [ICLR 2025](https://iclr.cc/Conferences/2025) |
+| 3-6 June | TBD | Amsterdam, Netherlands | [DH Benelux 2025](https://2025.dhbenelux.org/) |
+| 27 July - 1 August | TBD | Vienna, Austria | [ACL 2025](https://2025.aclweb.org/) |
+| 17-22 August | TBD | Rotterdam, Netherlands | [Interspeech 2025](https://interspeech2025.org/) |
 
 ## 2024
 
@@ -12,11 +23,11 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~10-14 March~~ | ~~10/31 October 2023 (full/short papers)~~ | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
 | ~~17-22 March~~ | ~~15 October 2023~~ | Malta | [EACL 2024](https://2024.eacl.org/) | 
 | ~~24-28 March~~ | ~~20/27 September 2023~~ | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
-| 7-11 May | ~~21 September 2023~~ | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
-| 20-25 May | ~~13 October 2023~~ | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
-| 5-7 June | ~~7 February 2024~~ | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
-| 6-9 August | ~~10 December 2023~~ | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
-| 12-17 August | ~~15 February 2024~~ | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
+| ~~7-11 May~~ | ~~21 September 2023~~ | Vienna, Austria | [ICLR 2024](https://iclr.cc/Conferences/2024) |
+| ~~20-25 May~~ | ~~13 October 2023~~ | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
+| ~~5-7 June~~ | ~~7 February 2024~~ | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
+| ~~6-9 August~~ | ~~10 December 2023~~ | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
+| 12-17 August~~ | ~~15 February 2024~~ | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
 | 30 August | TBD | Leiden, NL | [Computational Linguistics in the Netherlands (CLIN 34)](https://clin34.leidenuniv.nl/) |
 | 30 August - 4 September | ~~12 February 2024~~ | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
 | 1-5 September | ~~2 March~~ | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
