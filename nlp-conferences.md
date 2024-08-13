@@ -7,13 +7,17 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| 19-24 January | 16 September 2024 | Abu Dhabi | [COLING 2025](https://coling2025.org/) |
-| 24-27 March | 14/31 October 2024 (full/short papers) | Melbourne, Australia | [CHIIR 2025](https://chiir2025.github.io/) |
-| 06-10 April | 02/09/16/23 October 2024 | Lucca, Italy | [ECIR 2025](https://www.ecir2025.org/)
-| 24-28 April | 27 September 2024 | Singapore | [ICLR 2025](https://iclr.cc/Conferences/2025) |
-| 3-6 June | TBD | Amsterdam, Netherlands | [DH Benelux 2025](https://2025.dhbenelux.org/) |
-| 27 July - 1 August | TBD | Vienna, Austria | [ACL 2025](https://2025.aclweb.org/) |
-| 17-22 August | TBD | Rotterdam, Netherlands | [Interspeech 2025](https://interspeech2025.org/) |
+| 19-24 January | 16 September 2024 | Abu Dhabi | [COLING](https://coling2025.org/) |
+| 10-14 March | ~~9/14 August~~ | Hannover, Germany | [WSDM](https://www.wsdm-conference.org/2025/) |
+| 24-27 March | 14/31 October 2024 (full/short papers) | Melbourne, Australia | [CHIIR](https://chiir2025.github.io/) |
+| 06-10 April | 02/09/16/23 October 2024 | Lucca, Italy | [ECIR](https://ecir2025.eu/)
+| 24-28 April | 27 September 2024 | Singapore | [ICLR](https://iclr.cc/Conferences/2025) |
+| 3-6 June | TBD | Amsterdam, Netherlands | [DH Benelux](https://2025.dhbenelux.org/) |
+| TBD | TBD | Padua, Italy | [SIGIR](https://sigir2025.dei.unipd.it/) |
+| 27 July - 1 August | TBD | Vienna, Austria | [ACL](https://2025.aclweb.org/) |
+| 17-22 August | TBD | Rotterdam, Netherlands | [Interspeech](https://interspeech2025.org/) |
+| TBD | TBD | South Korea | CIKM |
+
 
 ## 2024
 
