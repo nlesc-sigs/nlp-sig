@@ -12,8 +12,8 @@ SIG Leads:
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
 | August | Summer break | -- | -- |
-| September 26th | TBD | TBD | TBD |
-| October 24th | 13:30 - 14:30 | Stella Verkijk (VU Amsterdam) | Automatic Event Detection in Early Modern Dutch (VOC) documents |
+| September 19th | TBD | TBD | TBD |
+| October 17th | 13:30 - 14:30 | Stella Verkijk (VU Amsterdam) | Automatic Event Detection in Early Modern Dutch (VOC) documents |
 
 
 
