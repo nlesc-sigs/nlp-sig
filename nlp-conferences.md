@@ -7,8 +7,8 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| 19-24 January | 16 September 2024 | Abu Dhabi | [COLING](https://coling2025.org/) |
-| 10-14 March | ~~9/14 August~~ | Hannover, Germany | [WSDM](https://www.wsdm-conference.org/2025/) |
+| 19-24 January | ~~16 September 2024~~ | Abu Dhabi | [COLING](https://coling2025.org/) |
+| 10-14 March | ~~9/14 August 2024~~ | Hannover, Germany | [WSDM](https://www.wsdm-conference.org/2025/) |
 | 24-27 March | 14/31 October 2024 (full/short papers) | Melbourne, Australia | [CHIIR](https://chiir2025.github.io/) |
 | 06-10 April | 02/09/16/23 October 2024 | Lucca, Italy | [ECIR](https://ecir2025.eu/)
 | 24-28 April | 27 September 2024 | Singapore | [ICLR](https://iclr.cc/Conferences/2025) |
@@ -23,7 +23,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| ~~19 February~~ | ~~25 January~~ | Hilversum, Netherlands | [2nd Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
+| ~~19 February~~ | ~~25 January 2024~~ | Hilversum, Netherlands | [2nd Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday/home) |
 | ~~10-14 March~~ | ~~10/31 October 2023 (full/short papers)~~ | Sheffield, UK | [CHIIR 2024](https://chiir2024.github.io/) |
 | ~~17-22 March~~ | ~~15 October 2023~~ | Malta | [EACL 2024](https://2024.eacl.org/) | 
 | ~~24-28 March~~ | ~~20/27 September 2023~~ | Glasgow, Scotland | [ECIR 2024](https://www.ecir2024.org/)
@@ -31,13 +31,13 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~20-25 May~~ | ~~13 October 2023~~ | Turin, Italy | [Joint LREC-COLING 2024](https://lrec-coling-2024.lrec-conf.org/) |
 | ~~5-7 June~~ | ~~7 February 2024~~ | Leuven, Belgium | [DH Benelux 2024](https://2024.dhbenelux.org/) |
 | ~~6-9 August~~ | ~~10 December 2023~~ | Washington D.C., USA | [DH 2024](https://dh2024.adho.org/) |
-| 12-17 August~~ | ~~15 February 2024~~ | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
-| 30 August | TBD | Leiden, NL | [Computational Linguistics in the Netherlands (CLIN 34)](https://clin34.leidenuniv.nl/) |
-| 30 August - 4 September | ~~12 February 2024~~ | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
-| 1-5 September | ~~2 March~~ | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
-| 18-20 September | ~~18 April~~ | Hagen, Germany | [The 10th International Conference on Computational Models of Argument (COMMA 2024)](http://comma2024.krportal.org/index.html)|
-| 19-20 October | 30 June | Trento, Italy | [ICNLSP](https://www.icnlsp.org/2024welcome/) |
-| 4-6 December | 8 July | Aarhus, Denmark | [CHR 2024](https://2024.computational-humanities-research.org/) |
+| ~~12-17 August~~ | ~~15 February 2024~~ | Bangkok, Thailand | [ACL 2024](https://2024.aclweb.org/) |
+| ~~30 August~~ | ~~TBD~~ | Leiden, NL | [Computational Linguistics in the Netherlands (CLIN 34)](https://clin34.leidenuniv.nl/) |
+| ~~30 August - 4 September~~ | ~~12 February 2024~~ | Athens, Greece | [ICDAR 2024](https://icdar2024.net/) |
+| ~~1-5 September~~ | ~~2 March 2024~~ | ~~Jerusalem, Israel~~ Kos Island, Greece | [Interspeech 2024](https://interspeech2024.org/) |
+| 18-20 September | ~~18 April 2024~~ | Hagen, Germany | [The 10th International Conference on Computational Models of Argument (COMMA 2024)](http://comma2024.krportal.org/index.html)|
+| 19-20 October | ~~30 June 2024~~ | Trento, Italy | [ICNLSP](https://www.icnlsp.org/2024welcome/) |
+| 4-6 December | ~~8 July 2024~~ | Aarhus, Denmark | [CHR 2024](https://2024.computational-humanities-research.org/) |
 
 <details>
   <summary>2023</summary>
