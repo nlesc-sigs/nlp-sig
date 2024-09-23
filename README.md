@@ -11,8 +11,6 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| August | Summer break | -- | -- |
-| September 19 | 13:30-14:30 | Video | [Establishing Trustworthiness: Rethinking Tasks and Model Evaluation](https://aclanthology.org/2023.emnlp-main.14/) (Litschko et al., 2023) |
 | October 17 | 13:30 - 14:30 | Stella Verkijk (VU Amsterdam) | Automatic Event Detection in Early Modern Dutch (VOC) documents |
 | November 14 | 13:30 - 14:30 | TBD | TBD |
 | December 13 | 13:30 - 14:30 | TBD | TBD |
