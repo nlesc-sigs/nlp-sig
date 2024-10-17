@@ -13,7 +13,7 @@ SIG Leads:
 |------|------|------|------------|
 | October 17 | 13:30 - 14:30 | Stella Verkijk (VU Amsterdam) | Automatic Event Detection in Early Modern Dutch (VOC) documents |
 | November 14 | 13:30 - 14:30 | TBD | TBD |
-| December 13 | 13:30 - 14:30 | TBD | TBD |
+| December 12 | 13:30 - 14:30 | TBD | TBD |
 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
