@@ -13,7 +13,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 06-10 April | 02/09/16/23 October 2024 | Lucca, Italy | [ECIR](https://ecir2025.eu/)
 | 24-28 April | 27 September 2024 | Singapore | [ICLR](https://iclr.cc/Conferences/2025) |
 | 3-6 June | [15 December 2024 (abstract)](https://2025.dhbenelux.org/call-for-papers/) | Amsterdam, Netherlands | [DH Benelux](https://2025.dhbenelux.org/) |
-| 13-18 July | TBD | Padua, Italy | [SIGIR](https://sigir2025.dei.unipd.it/) |
+| 13-18 July | 16/23 January (abstract/full) | Padua, Italy | [SIGIR](https://sigir2025.dei.unipd.it/) |
 | 14-18 July | TBD | Lisbon, Portugal | [DH 2025](https://dh2025.adho.org/) |
 | 27 July - 1 August | TBD | Vienna, Austria | [ACL](https://2025.aclweb.org/) |
 | 17-22 August | TBD | Rotterdam, Netherlands | [Interspeech](https://interspeech2025.org/) |
