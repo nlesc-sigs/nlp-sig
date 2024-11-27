@@ -5,8 +5,10 @@ This is a list of past meetings of the Natural Language Processing (NLP) SIG of 
 In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-deeplearning.md). The course meetings were additional meetings which are not listed in this overview.
 
 
-| Date | Session leader | Participants | Topic |
+| Date | Session host(s) | Participants | Topic |
 |------|----------------|--------|-------|
+| 2024-11-14 | Carsten | 7 | Carsten Schnober: [Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations](https://2024.computational-humanities-research.org/papers/paper73/) |
+| 2024-10-17 | Carsten | 9 | Stella Verkijk (VU Amsterdam): Automatic Event Detection in Early Modern Dutch (VOC) documents |
 | 2024-09-19 | Carsten, Erik | 8 | [NLP Conferences](nlp-conferences.md), [Establishing Trustworthiness: Rethinking Tasks and Model Evaluation](https://aclanthology.org/2023.emnlp-main.14/) (Litschko et al., 2023) [video](https://www.youtube.com/watch?v=0cuLW_A6QO4&t=3739s) |
 | 2024-07-18 | Erik | 7 | Knowledge Extraction from Text ([notebook](https://github.com/nlesc-sigs/nlp-sig/blob/master/notebooks/knowledge_extraction.ipynb)) |
 | 2024-06-20 | Carsten | 9 | [Claudiu Forgaci](https://www.esciencecenter.nl/fellowship-programme/claudiu-forgaci/): "[mintEMU - The Legacy of the European Postgraduate Master in Urbanism at TU Delft: A Text Mining Approach](https://github.com/UD3-Lab/mintEMU)" ([slides](https://cforgaci.github.io/presentations/240620-mintEMU-NLP_SIG_NLeSC/presentation.html), [video recording](https://nlesc-my.sharepoint.com/personal/l_ootes_esciencecenter_nl/_layouts/15/stream.aspx?id=%2Fpersonal%2Fl%5Footes%5Fesciencecenter%5Fnl%2FDocuments%2FRecordings%2FNLP%20SIG%2D20240620%5F133442%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8b059ac9%2Dba08%2D4ed1%2D9b72%2Da740fd6cdea7&ga=1)) |
