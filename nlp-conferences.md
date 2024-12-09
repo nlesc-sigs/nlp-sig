@@ -12,6 +12,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 24-27 March | 14/31 October 2024 (full/short papers) | Melbourne, Australia | [CHIIR](https://chiir2025.github.io/) |
 | 06-10 April | 02/09/16/23 October 2024 | Lucca, Italy | [ECIR](https://ecir2025.eu/)
 | 24-28 April | 27 September 2024 | Singapore | [ICLR](https://iclr.cc/Conferences/2025) |
+| 29 April - 4 May | ~~[ACL Rolling Review October 2024](https://2025.naacl.org/calls/papers/)~~ | Albuquerque, New Mexico, USA | [Joint NAACL-EMNLP](https://2025.naacl.org/) | 
 | 3-6 June | [15 December 2024 (abstract)](https://2025.dhbenelux.org/call-for-papers/) | Amsterdam, Netherlands | [DH Benelux](https://2025.dhbenelux.org/) |
 | 13-18 July | 16/23 January (abstract/full) | Padua, Italy | [SIGIR](https://sigir2025.dei.unipd.it/) |
 | 14-18 July | 1 December 2024 (abstract) | Lisbon, Portugal | [Digital Humanities](https://dh2025.adho.org/) |
