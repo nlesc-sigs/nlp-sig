@@ -11,8 +11,7 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| December 12 | 13:30 - 14:30 | Tess Dejaeghere | LLMs for NER on historic texts |
-| January 09 | 13:30 - 14:30 | TBD | TBD |
+| January 16 | 13:30 - 14:30 | recording with [Emily Bender](https://faculty.washington.edu/ebender/) | ChatGP-why: When, if ever, is synthetic text safe, appropriate, and desirable? |
 
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
