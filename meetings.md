@@ -7,6 +7,7 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session host(s) | Participants | Topic |
 |------|----------------|--------|-------|
+| 2024-12-12 | Carsten | 6 | Tess Dejaeghere: LLMs for NER on historic texts |
 | 2024-11-14 | Carsten | 7 | Carsten Schnober: [Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations](https://2024.computational-humanities-research.org/papers/paper73/) |
 | 2024-10-17 | Carsten | 9 | Stella Verkijk (VU Amsterdam): Automatic Event Detection in Early Modern Dutch (VOC) documents |
 | 2024-09-19 | Carsten, Erik | 8 | [NLP Conferences](nlp-conferences.md), [Establishing Trustworthiness: Rethinking Tasks and Model Evaluation](https://aclanthology.org/2023.emnlp-main.14/) (Litschko et al., 2023) [video](https://www.youtube.com/watch?v=0cuLW_A6QO4&t=3739s) |
