@@ -12,7 +12,8 @@ SIG Leads:
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
 | January 16 | 13:30 - 14:30 | recording with [Emily Bender](https://faculty.washington.edu/ebender/) | ChatGP-why: When, if ever, is synthetic text safe, appropriate, and desirable? |
-
+| February 6 | 13:30 - 14:30 | TBD | TBD |
+| March 6 | 13:30 - 14:30 | TBD | TBD |
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
