@@ -19,7 +19,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 27 July - 1 August | ~~15 February~~ | Vienna, Austria | [ACL](https://2025.aclweb.org/) |
 | 17-22 August | ~~12 February~~ | Rotterdam, Netherlands | [Interspeech](https://interspeech2025.org/) |
 | 9-12 September | [6/13 May](https://clef2025.clef-initiative.eu/index.php?page=Pages/importantDates.html) | Madrid, Spain | [CLEF 2025](https://clef2025.clef-initiative.eu/) |
-| 26-30 October | TBD | Seoul, South Korea | CIKM |
+| 10-14 November | [16 May](https://cikm2025.org/calls/01.html?sMenu=01) | Seoul, South Korea | [CIKM 2025](https://cikm2025.org/) |
 
 
 ## 2024
