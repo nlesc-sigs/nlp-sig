@@ -13,7 +13,8 @@ SIG Leads:
 |------|------|------|------------|
 | January 16 | 13:30 - 14:30 | recording with [Emily Bender](https://faculty.washington.edu/ebender/) | ChatGP-why: When, if ever, is synthetic text safe, appropriate, and desirable? |
 | February 6 | 13:30 - 14:30 | TBD | TBD |
-| March 6 | 13:30 - 14:30 | TBD | TBD |
+| March 6 | 13:30 - 14:30 | Erik Tjong Kim Sang | TBD |
+| April 3 | 13:30 - 14:30 | TBC: Carsten Schnober | TBC: 100 Queries: What do Dutch Children See on the Web? |
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
