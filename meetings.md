@@ -7,6 +7,8 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session host(s) | Participants | Topic |
 |------|----------------|--------|-------|
+| 2025-06-03 | Erik Tjong Kim Sang | | Mining Bluesky |
+| 2025-01-16 | Carsten Schnober | 12 | joint session with Ethics SIG; [ChatGP-why: When, if ever, is synthetic text safe, appropriate, and desirable?](https://faculty.washington.edu/ebender/) |
 | 2024-12-12 | Carsten | 6 | Tess Dejaeghere: LLMs for NER on historic texts |
 | 2024-11-14 | Carsten | 7 | Carsten Schnober: [Page Embeddings: Extracting and Classifying Historical Documents with Generic Vector Representations](https://2024.computational-humanities-research.org/papers/paper73/) |
 | 2024-10-17 | Carsten | 9 | Stella Verkijk (VU Amsterdam): Automatic Event Detection in Early Modern Dutch (VOC) documents |
