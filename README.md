@@ -11,10 +11,9 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| January 16 | 13:30 - 14:30 | recording with [Emily Bender](https://faculty.washington.edu/ebender/) | ChatGP-why: When, if ever, is synthetic text safe, appropriate, and desirable? |
-| February 6 | 13:30 - 14:30 | TBD | TBD |
-| March 6 | 13:30 - 14:30 | Erik Tjong Kim Sang | TBD |
 | April 3 | 13:30 - 14:30 | Carsten Schnober | 100 Queries: What do Dutch Children See on the Web? ([ROMCIR](https://romcir.disco.unimib.it/2025-edition/2025-workshop/schedule/) presentation) |
+| May 1 | 13:30 - 14:30 | TBD | TBD |
+| June 5 | 13:30 - 14:30 | TBD | TBD; note: overlaps with [DH Benelux conference](https://2025.dhbenelux.org/) |
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
