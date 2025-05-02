@@ -12,8 +12,8 @@ SIG Leads:
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
 | April 3 | 13:30 - 14:30 | Carsten Schnober | 100 Queries: What do Dutch Children See on the Web? ([ROMCIR](https://romcir.disco.unimib.it/2025-edition/2025-workshop/schedule/) presentation) |
-| May 1 | 13:30 - 14:30 | TBD | TBD |
-| June 5 | 13:30 - 14:30 | TBD | TBD; note: overlaps with [DH Benelux conference](https://2025.dhbenelux.org/) |
+| May 1 | 13:30 - 14:30 | -- | Open Agenda |
+| ~~May 29~~ | ~~13:30 - 14:30~~ | -- | Canceled due to public holiday |
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
