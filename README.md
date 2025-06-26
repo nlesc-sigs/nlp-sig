@@ -11,8 +11,7 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| ~~May 29~~ | ~~13:30 - 14:30~~ | -- | Canceled due to public holiday |
-| June 26 | 13:30 - 14:30 | TBD |TBD |
+| TBD | TBD | TBD |TBD |
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
