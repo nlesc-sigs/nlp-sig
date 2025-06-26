@@ -7,6 +7,7 @@ In 2019-2021 we followed the [Stanford course on NLP with Deep Learning](nlp-dee
 
 | Date | Session host(s) | Participants | Topic |
 |------|----------------|--------|-------|
+| 2025-06-26 | Erik Tjong Kim Sang | 5 | "The Future of NLP in the Age of Generative AI" ([related blogpost](https://www.ruder.io/nlp-research-era-of-llms/)) |
 | 2025-05-01 | Carsten Schnober | 3 | Open agenda, future of the SIG |
 | 2025-04-03 | Carsten Schnober | 4 | 100 Queries: What do Dutch Children See on the Web? ([ROMCIR](https://romcir.disco.unimib.it/2025-edition/2025-workshop/schedule/) presentation) |
 | 2025-03-06 | Erik Tjong Kim Sang | 5 | Mining Bluesky |
