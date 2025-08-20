@@ -3,6 +3,17 @@
 Here is a list of recent and upcoming NLP conferences.
 For a list of Machine Learning conferences, check the [SIG ML conferences page](https://github.com/NLeSC/Machine_Learning_SIG/blob/master/conferences.md).
 
+## 2026
+
+| Dates | Deadline | Location | Conference |
+| ----- | -------- | -------- | ---------- |
+| March 22-26 | [October 8th, 2025](https://chiir2026.github.io/full-paper.html) | Seattle, WA, USA |  [Human Information Interaction and Retrieval (CHIIR)](https://chiir2026.github.io/) |
+| 29 March - 2 April | [September 25, 2025](https://ecir2026.eu/calls/call-for-full-papers) | Delft, NL | [48th European Conference on Information Retrieval (ECIR)](https://ecir2026.eu/) | 
+| April 23-27 | [September 19 2025](https://iclr.cc/Conferences/2026/CallForPapers) |  Rio de Janeiro, Brazil | [14th International Conference on Learning Representations (ICLR)](https://iclr.cc/) |
+| July 2-7 | [TBD](https://2026.aclweb.org/calls/main_conference_papers/) | San Diego, CA, USA | [64th Annual Meeting of the Association for Computational Linguistics (ACL)](https://2026.aclweb.org/) |
+| July 27-31 | [TBD](https://dh2026.adho.org/cfp/) | Daejeon, South Korea | [DH2026](https://dh2026.adho.org/) |  
+
+
 ## 2025
 
 | Dates | Deadline | Location | Conference |
