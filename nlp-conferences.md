@@ -7,23 +7,24 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| 19-24 January | ~~16 September 2024~~ | Abu Dhabi | [COLING](https://coling2025.org/) |
-| 10-14 March | ~~9/14 August 2024~~ | Hannover, Germany | [WSDM](https://www.wsdm-conference.org/2025/) |
-| 24-27 March | ~~14/31 October 2024 (full/short papers)~~ | Melbourne, Australia | [CHIIR](https://chiir2025.github.io/) |
-| 06-10 April | ~~02/09/16/23 October 2024~~ | Lucca, Italy | [ECIR](https://ecir2025.eu/)
-| 24-28 April | ~~27 September 2024~~ | Singapore | [ICLR](https://iclr.cc/Conferences/2025) |
-| 29 April - 4 May | ~~[ACL Rolling Review October 2024](https://2025.naacl.org/calls/papers/)~~ | Albuquerque, New Mexico, USA | [Joint NAACL-EMNLP](https://2025.naacl.org/) | 
-| 3-6 June | ~~[15 December 2024 (abstract)](https://2025.dhbenelux.org/call-for-papers/)~~ | Amsterdam, Netherlands | [DH Benelux](https://2025.dhbenelux.org/) |
-| 13-18 July | ~~16/23 January (abstract/full)~~ | Padua, Italy | [SIGIR](https://sigir2025.dei.unipd.it/) |
-| 14-18 July | ~~1 December 2024 (abstract)~~ | Lisbon, Portugal | [Digital Humanities](https://dh2025.adho.org/) |
-| 27 July - 1 August | ~~15 February~~ | Vienna, Austria | [ACL](https://2025.aclweb.org/) |
-| 17-22 August | ~~12 February~~ | Rotterdam, Netherlands | [Interspeech](https://interspeech2025.org/) |
-| 9-12 September | [6/13 May](https://clef2025.clef-initiative.eu/index.php?page=Pages/importantDates.html) | Madrid, Spain | [CLEF 2025](https://clef2025.clef-initiative.eu/) |
-| 10-14 November | [16 May](https://cikm2025.org/calls/01.html?sMenu=01) | Seoul, South Korea | [CIKM 2025](https://cikm2025.org/) |
-| 9-12 December | [18 July](https://2025.computational-humanities-research.org/cfp/) | Luxembourg | [CHR 2025](https://2025.computational-humanities-research.org/) |
+| ~~19-24 January~~ | ~~16 September 2024~~ | Abu Dhabi | [COLING](https://coling2025.org/) |
+| ~~10-14 March~~ | ~~9/14 August 2024~~ | Hannover, Germany | [WSDM](https://www.wsdm-conference.org/2025/) |
+| ~~24-27 March~~ | ~~14/31 October 2024 (full/short papers)~~ | Melbourne, Australia | [CHIIR](https://chiir2025.github.io/) |
+| ~~06-10 April~~ | ~~02/09/16/23 October 2024~~ | Lucca, Italy | [ECIR](https://ecir2025.eu/)
+| ~~24-28 April~~ | ~~27 September 2024~~ | Singapore | [ICLR](https://iclr.cc/Conferences/2025) |
+| ~~29 April - 4 May~~ | ~~[ACL Rolling Review October 2024](https://2025.naacl.org/calls/papers/)~~ | Albuquerque, New Mexico, USA | [Joint NAACL-EMNLP](https://2025.naacl.org/) | 
+| ~~3-6 June~~ | ~~[15 December 2024 (abstract)](https://2025.dhbenelux.org/call-for-papers/)~~ | Amsterdam, Netherlands | [DH Benelux](https://2025.dhbenelux.org/) |
+| ~~13-18 July~~ | ~~16/23 January (abstract/full)~~ | Padua, Italy | [SIGIR](https://sigir2025.dei.unipd.it/) |
+| ~~14-18 July~~ | ~~1 December 2024 (abstract)~~ | Lisbon, Portugal | [Digital Humanities](https://dh2025.adho.org/) |
+| ~~27 July - 1 August~~ | ~~15 February~~ | Vienna, Austria | [ACL](https://2025.aclweb.org/) |
+| ~~17-22 August~~ | ~~12 February~~ | Rotterdam, Netherlands | [Interspeech](https://interspeech2025.org/) |
+| 9-12 September | ~~[6/13 May](https://clef2025.clef-initiative.eu/index.php?page=Pages/importantDates.html)~~ | Madrid, Spain | [CLEF 2025](https://clef2025.clef-initiative.eu/) |
+| 10-14 November | ~~[16 May](https://cikm2025.org/calls/01.html?sMenu=01)~~ | Seoul, South Korea | [CIKM 2025](https://cikm2025.org/) |
+| 9-12 December | ~~[18 July](https://2025.computational-humanities-research.org/cfp/)~~ | Luxembourg | [CHR 2025](https://2025.computational-humanities-research.org/) |
 
 
-## 2024
+<details>
+  <summary>2024</summary>
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
@@ -42,6 +43,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | 18-20 September | ~~18 April 2024~~ | Hagen, Germany | [The 10th International Conference on Computational Models of Argument (COMMA 2024)](http://comma2024.krportal.org/index.html)|
 | 19-20 October | ~~30 June 2024~~ | Trento, Italy | [ICNLSP](https://www.icnlsp.org/2024welcome/) |
 | 4-6 December | ~~8 July 2024~~ | Aarhus, Denmark | [CHR 2024](https://2024.computational-humanities-research.org/) |
+</details>
 
 <details>
   <summary>2023</summary>
