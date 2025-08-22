@@ -7,11 +7,12 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
-| March 22-26 | [October 8th, 2025](https://chiir2026.github.io/full-paper.html) | Seattle, WA, USA |  [Human Information Interaction and Retrieval (CHIIR)](https://chiir2026.github.io/) |
+| March 22-26 | [October 8 2025](https://chiir2026.github.io/full-paper.html) | Seattle, WA, USA |  [Human Information Interaction and Retrieval (CHIIR)](https://chiir2026.github.io/) |
 | March 24-29 | | Rabat, Morocco | EACL 2026 |
-| 29 March - 2 April | [September 25, 2025](https://ecir2026.eu/calls/call-for-full-papers) | Delft, NL | [48th European Conference on Information Retrieval (ECIR)](https://ecir2026.eu/) | 
+| 29 March - 2 April | [September 25 2025](https://ecir2026.eu/calls/call-for-full-papers) | Delft, NL | [48th European Conference on Information Retrieval (ECIR)](https://ecir2026.eu/) | 
 | April 23-27 | [September 19 2025](https://iclr.cc/Conferences/2026/CallForPapers) |  Rio de Janeiro, Brazil | [14th International Conference on Learning Representations (ICLR)](https://iclr.cc/) |
-| May 13-15 | [October 17](https://lrec2026.info/calls/second-call-for-papers/) | Palma de Mallorca, Spain | [15th biennial Language Resources and Evaluation Conference (LREC)](https://lrec2026.info/) |
+| May 13-15 | [October 17 2025](https://lrec2026.info/calls/second-call-for-papers/) | Palma de Mallorca, Spain | [15th biennial Language Resources and Evaluation Conference (LREC)](https://lrec2026.info/) |
+| June 2-5 | [December 1 2025](https://2026.dhbenelux.org/call-for-papers-2026/) | Maastricht, NL | [Digital Humanities Benelux 2026](https://2026.dhbenelux.org/) |
 | July 2-7 | [TBD](https://2026.aclweb.org/calls/main_conference_papers/) | San Diego, CA, USA | [64th Annual Meeting of the Association for Computational Linguistics (ACL)](https://2026.aclweb.org/) |
 | July 27-31 | [TBD](https://dh2026.adho.org/cfp/) | Daejeon, South Korea | [DH2026](https://dh2026.adho.org/) |  
 
