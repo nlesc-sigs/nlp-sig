@@ -7,6 +7,7 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
+| February 2 | TBD | Hilversum, NL | [4th Dutch Speech Tech Day](https://sites.google.com/view/dutchspeechtechday2026) |
 | March 22-26 | [October 8 2025](https://chiir2026.github.io/full-paper.html) | Seattle, WA, USA |  [Human Information Interaction and Retrieval (CHIIR)](https://chiir2026.github.io/) |
 | March 24-29 | | Rabat, Morocco | EACL 2026 |
 | 29 March - 2 April | [September 25 2025](https://ecir2026.eu/calls/call-for-full-papers) | Delft, NL | [48th European Conference on Information Retrieval (ECIR)](https://ecir2026.eu/) | 
