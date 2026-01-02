@@ -11,7 +11,7 @@ SIG Leads:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| 21-08-2025 | 13:30 | José Angel Daza | Developing the ["Fundamentals of Natural Language Processing (NLP) in Python"](https://carpentries-incubator.github.io/Natural-language-processing/) lesson |
+
 
 [Past meetings](https://github.com/nlesc-sigs/nlp-sig/blob/master/meetings.md)
 
