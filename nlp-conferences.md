@@ -3,6 +3,13 @@
 Here is a list of recent and upcoming NLP conferences.
 For a list of Machine Learning conferences, check the [SIG ML conferences page](https://github.com/NLeSC/Machine_Learning_SIG/blob/master/conferences.md).
 
+## 2027
+
+| Dates | Deadline | Location | Conference |
+| ----- | -------- | -------- | ---------- |
+| January 5-8 | TBD | Manchester, UK | [Computational Humanities Research](https://computational-humanities-research.org/conference/) |
+
+
 ## 2026
 
 | Dates | Deadline | Location | Conference |
@@ -18,8 +25,9 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | July 27-31 | [December 8, 2025](https://dh2026.adho.org/cfp/) | Daejeon, South Korea | [Digital Humanities 2026](https://dh2026.adho.org/) |  
 
 
-## 2025
-
+<details>
+  <summary>2025</summary>
+  
 | Dates | Deadline | Location | Conference |
 | ----- | -------- | -------- | ---------- |
 | ~~19-24 January~~ | ~~16 September 2024~~ | Abu Dhabi | [COLING](https://coling2025.org/) |
@@ -33,9 +41,10 @@ For a list of Machine Learning conferences, check the [SIG ML conferences page](
 | ~~14-18 July~~ | ~~1 December 2024 (abstract)~~ | Lisbon, Portugal | [Digital Humanities](https://dh2025.adho.org/) |
 | ~~27 July - 1 August~~ | ~~15 February~~ | Vienna, Austria | [ACL](https://2025.aclweb.org/) |
 | ~~17-22 August~~ | ~~12 February~~ | Rotterdam, Netherlands | [Interspeech](https://interspeech2025.org/) |
-| 9-12 September | ~~[6/13 May](https://clef2025.clef-initiative.eu/index.php?page=Pages/importantDates.html)~~ | Madrid, Spain | [CLEF 2025](https://clef2025.clef-initiative.eu/) |
-| 10-14 November | ~~[16 May](https://cikm2025.org/calls/01.html?sMenu=01)~~ | Seoul, South Korea | [CIKM 2025](https://cikm2025.org/) |
-| 9-12 December | ~~[18 July](https://2025.computational-humanities-research.org/cfp/)~~ | Luxembourg | [CHR 2025](https://2025.computational-humanities-research.org/) |
+| ~~9-12 September~~ | ~~[6/13 May](https://clef2025.clef-initiative.eu/index.php?page=Pages/importantDates.html)~~ | Madrid, Spain | [CLEF 2025](https://clef2025.clef-initiative.eu/) |
+| ~~10-14 November~~ | ~~[16 May](https://cikm2025.org/calls/01.html?sMenu=01)~~ | Seoul, South Korea | [CIKM 2025](https://cikm2025.org/) |
+| ~~9-12 December~~ | ~~[18 July](https://2025.computational-humanities-research.org/cfp/)~~ | Luxembourg | [CHR 2025](https://2025.computational-humanities-research.org/) |
+</details>
 
 
 <details>
